@@ -1,0 +1,11 @@
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\4. Inheritance\Person\bin\Debug\netcoreapp2.1\Person.deps.json
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\4. Inheritance\Person\bin\Debug\netcoreapp2.1\Person.runtimeconfig.json
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\4. Inheritance\Person\bin\Debug\netcoreapp2.1\Person.runtimeconfig.dev.json
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\4. Inheritance\Person\bin\Debug\netcoreapp2.1\Person.dll
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\4. Inheritance\Person\bin\Debug\netcoreapp2.1\Person.pdb
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\4. Inheritance\Person\obj\Debug\netcoreapp2.1\Person.csprojAssemblyReference.cache
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\4. Inheritance\Person\obj\Debug\netcoreapp2.1\Person.csproj.CoreCompileInputs.cache
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\4. Inheritance\Person\obj\Debug\netcoreapp2.1\Person.AssemblyInfoInputs.cache
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\4. Inheritance\Person\obj\Debug\netcoreapp2.1\Person.AssemblyInfo.cs
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\4. Inheritance\Person\obj\Debug\netcoreapp2.1\Person.dll
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\4. Inheritance\Person\obj\Debug\netcoreapp2.1\Person.pdb

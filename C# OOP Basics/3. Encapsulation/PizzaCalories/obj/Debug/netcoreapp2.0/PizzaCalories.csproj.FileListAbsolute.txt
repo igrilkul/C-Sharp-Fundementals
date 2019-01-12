@@ -1,0 +1,11 @@
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\3. Encapsulation\PizzaCalories\bin\Debug\netcoreapp2.0\PizzaCalories.deps.json
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\3. Encapsulation\PizzaCalories\bin\Debug\netcoreapp2.0\PizzaCalories.runtimeconfig.json
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\3. Encapsulation\PizzaCalories\bin\Debug\netcoreapp2.0\PizzaCalories.runtimeconfig.dev.json
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\3. Encapsulation\PizzaCalories\bin\Debug\netcoreapp2.0\PizzaCalories.dll
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\3. Encapsulation\PizzaCalories\bin\Debug\netcoreapp2.0\PizzaCalories.pdb
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\3. Encapsulation\PizzaCalories\obj\Debug\netcoreapp2.0\PizzaCalories.csprojAssemblyReference.cache
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\3. Encapsulation\PizzaCalories\obj\Debug\netcoreapp2.0\PizzaCalories.csproj.CoreCompileInputs.cache
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\3. Encapsulation\PizzaCalories\obj\Debug\netcoreapp2.0\PizzaCalories.AssemblyInfoInputs.cache
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\3. Encapsulation\PizzaCalories\obj\Debug\netcoreapp2.0\PizzaCalories.AssemblyInfo.cs
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\3. Encapsulation\PizzaCalories\obj\Debug\netcoreapp2.0\PizzaCalories.dll
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\3. Encapsulation\PizzaCalories\obj\Debug\netcoreapp2.0\PizzaCalories.pdb

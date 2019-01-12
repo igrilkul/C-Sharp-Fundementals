@@ -1,0 +1,11 @@
+D:\programming\Softuni\C# Fundementals\C# Advanced\5. Functional Programming\6. Reverse and Exclude\bin\Debug\netcoreapp2.0\6. Reverse and Exclude.deps.json
+D:\programming\Softuni\C# Fundementals\C# Advanced\5. Functional Programming\6. Reverse and Exclude\bin\Debug\netcoreapp2.0\6. Reverse and Exclude.runtimeconfig.json
+D:\programming\Softuni\C# Fundementals\C# Advanced\5. Functional Programming\6. Reverse and Exclude\bin\Debug\netcoreapp2.0\6. Reverse and Exclude.runtimeconfig.dev.json
+D:\programming\Softuni\C# Fundementals\C# Advanced\5. Functional Programming\6. Reverse and Exclude\bin\Debug\netcoreapp2.0\6. Reverse and Exclude.dll
+D:\programming\Softuni\C# Fundementals\C# Advanced\5. Functional Programming\6. Reverse and Exclude\bin\Debug\netcoreapp2.0\6. Reverse and Exclude.pdb
+D:\programming\Softuni\C# Fundementals\C# Advanced\5. Functional Programming\6. Reverse and Exclude\obj\Debug\netcoreapp2.0\6. Reverse and Exclude.csprojResolveAssemblyReference.cache
+D:\programming\Softuni\C# Fundementals\C# Advanced\5. Functional Programming\6. Reverse and Exclude\obj\Debug\netcoreapp2.0\6. Reverse and Exclude.csproj.CoreCompileInputs.cache
+D:\programming\Softuni\C# Fundementals\C# Advanced\5. Functional Programming\6. Reverse and Exclude\obj\Debug\netcoreapp2.0\6. Reverse and Exclude.AssemblyInfoInputs.cache
+D:\programming\Softuni\C# Fundementals\C# Advanced\5. Functional Programming\6. Reverse and Exclude\obj\Debug\netcoreapp2.0\6. Reverse and Exclude.AssemblyInfo.cs
+D:\programming\Softuni\C# Fundementals\C# Advanced\5. Functional Programming\6. Reverse and Exclude\obj\Debug\netcoreapp2.0\6. Reverse and Exclude.dll
+D:\programming\Softuni\C# Fundementals\C# Advanced\5. Functional Programming\6. Reverse and Exclude\obj\Debug\netcoreapp2.0\6. Reverse and Exclude.pdb

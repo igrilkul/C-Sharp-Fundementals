@@ -1,0 +1,11 @@
+D:\programming\Softuni\C# Fundementals\C# Advanced\5. Functional Programming\9. List of Predicates\bin\Debug\netcoreapp2.0\9. List of Predicates.deps.json
+D:\programming\Softuni\C# Fundementals\C# Advanced\5. Functional Programming\9. List of Predicates\bin\Debug\netcoreapp2.0\9. List of Predicates.runtimeconfig.json
+D:\programming\Softuni\C# Fundementals\C# Advanced\5. Functional Programming\9. List of Predicates\bin\Debug\netcoreapp2.0\9. List of Predicates.runtimeconfig.dev.json
+D:\programming\Softuni\C# Fundementals\C# Advanced\5. Functional Programming\9. List of Predicates\bin\Debug\netcoreapp2.0\9. List of Predicates.dll
+D:\programming\Softuni\C# Fundementals\C# Advanced\5. Functional Programming\9. List of Predicates\bin\Debug\netcoreapp2.0\9. List of Predicates.pdb
+D:\programming\Softuni\C# Fundementals\C# Advanced\5. Functional Programming\9. List of Predicates\obj\Debug\netcoreapp2.0\9. List of Predicates.csprojResolveAssemblyReference.cache
+D:\programming\Softuni\C# Fundementals\C# Advanced\5. Functional Programming\9. List of Predicates\obj\Debug\netcoreapp2.0\9. List of Predicates.csproj.CoreCompileInputs.cache
+D:\programming\Softuni\C# Fundementals\C# Advanced\5. Functional Programming\9. List of Predicates\obj\Debug\netcoreapp2.0\9. List of Predicates.AssemblyInfoInputs.cache
+D:\programming\Softuni\C# Fundementals\C# Advanced\5. Functional Programming\9. List of Predicates\obj\Debug\netcoreapp2.0\9. List of Predicates.AssemblyInfo.cs
+D:\programming\Softuni\C# Fundementals\C# Advanced\5. Functional Programming\9. List of Predicates\obj\Debug\netcoreapp2.0\9. List of Predicates.dll
+D:\programming\Softuni\C# Fundementals\C# Advanced\5. Functional Programming\9. List of Predicates\obj\Debug\netcoreapp2.0\9. List of Predicates.pdb

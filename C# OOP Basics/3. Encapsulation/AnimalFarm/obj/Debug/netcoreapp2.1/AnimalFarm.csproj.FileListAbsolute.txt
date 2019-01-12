@@ -1,0 +1,11 @@
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\3. Encapsulation\AnimalFarm\bin\Debug\netcoreapp2.1\AnimalFarm.deps.json
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\3. Encapsulation\AnimalFarm\bin\Debug\netcoreapp2.1\AnimalFarm.runtimeconfig.json
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\3. Encapsulation\AnimalFarm\bin\Debug\netcoreapp2.1\AnimalFarm.runtimeconfig.dev.json
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\3. Encapsulation\AnimalFarm\bin\Debug\netcoreapp2.1\AnimalFarm.dll
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\3. Encapsulation\AnimalFarm\bin\Debug\netcoreapp2.1\AnimalFarm.pdb
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\3. Encapsulation\AnimalFarm\obj\Debug\netcoreapp2.1\AnimalFarm.csprojAssemblyReference.cache
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\3. Encapsulation\AnimalFarm\obj\Debug\netcoreapp2.1\AnimalFarm.csproj.CoreCompileInputs.cache
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\3. Encapsulation\AnimalFarm\obj\Debug\netcoreapp2.1\AnimalFarm.AssemblyInfoInputs.cache
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\3. Encapsulation\AnimalFarm\obj\Debug\netcoreapp2.1\AnimalFarm.AssemblyInfo.cs
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\3. Encapsulation\AnimalFarm\obj\Debug\netcoreapp2.1\AnimalFarm.dll
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\3. Encapsulation\AnimalFarm\obj\Debug\netcoreapp2.1\AnimalFarm.pdb

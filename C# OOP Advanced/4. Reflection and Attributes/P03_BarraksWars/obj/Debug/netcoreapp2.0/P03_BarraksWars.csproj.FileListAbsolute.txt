@@ -1,0 +1,22 @@
+D:\programming\P03_BarraksWars\bin\Debug\netcoreapp2.0\P03_BarraksWars.deps.json
+D:\programming\P03_BarraksWars\bin\Debug\netcoreapp2.0\P03_BarraksWars.runtimeconfig.json
+D:\programming\P03_BarraksWars\bin\Debug\netcoreapp2.0\P03_BarraksWars.runtimeconfig.dev.json
+D:\programming\P03_BarraksWars\bin\Debug\netcoreapp2.0\P03_BarraksWars.dll
+D:\programming\P03_BarraksWars\bin\Debug\netcoreapp2.0\P03_BarraksWars.pdb
+D:\programming\P03_BarraksWars\obj\Debug\netcoreapp2.0\P03_BarraksWars.csprojAssemblyReference.cache
+D:\programming\P03_BarraksWars\obj\Debug\netcoreapp2.0\P03_BarraksWars.csproj.CoreCompileInputs.cache
+D:\programming\P03_BarraksWars\obj\Debug\netcoreapp2.0\P03_BarraksWars.AssemblyInfoInputs.cache
+D:\programming\P03_BarraksWars\obj\Debug\netcoreapp2.0\P03_BarraksWars.AssemblyInfo.cs
+D:\programming\P03_BarraksWars\obj\Debug\netcoreapp2.0\P03_BarraksWars.dll
+D:\programming\P03_BarraksWars\obj\Debug\netcoreapp2.0\P03_BarraksWars.pdb
+D:\programming\Softuni\C# Fundementals\C# OOP Advanced\4. Reflection and Attributes\P03_BarraksWars\obj\Debug\netcoreapp2.0\P03_BarraksWars.csprojAssemblyReference.cache
+D:\programming\Softuni\C# Fundementals\C# OOP Advanced\4. Reflection and Attributes\P03_BarraksWars\obj\Debug\netcoreapp2.0\P03_BarraksWars.csproj.CoreCompileInputs.cache
+D:\programming\Softuni\C# Fundementals\C# OOP Advanced\4. Reflection and Attributes\P03_BarraksWars\obj\Debug\netcoreapp2.0\P03_BarraksWars.AssemblyInfoInputs.cache
+D:\programming\Softuni\C# Fundementals\C# OOP Advanced\4. Reflection and Attributes\P03_BarraksWars\obj\Debug\netcoreapp2.0\P03_BarraksWars.AssemblyInfo.cs
+D:\programming\Softuni\C# Fundementals\C# OOP Advanced\4. Reflection and Attributes\P03_BarraksWars\obj\Debug\netcoreapp2.0\P03_BarraksWars.dll
+D:\programming\Softuni\C# Fundementals\C# OOP Advanced\4. Reflection and Attributes\P03_BarraksWars\obj\Debug\netcoreapp2.0\P03_BarraksWars.pdb
+D:\programming\Softuni\C# Fundementals\C# OOP Advanced\4. Reflection and Attributes\P03_BarraksWars\bin\Debug\netcoreapp2.0\P03_BarraksWars.deps.json
+D:\programming\Softuni\C# Fundementals\C# OOP Advanced\4. Reflection and Attributes\P03_BarraksWars\bin\Debug\netcoreapp2.0\P03_BarraksWars.runtimeconfig.json
+D:\programming\Softuni\C# Fundementals\C# OOP Advanced\4. Reflection and Attributes\P03_BarraksWars\bin\Debug\netcoreapp2.0\P03_BarraksWars.runtimeconfig.dev.json
+D:\programming\Softuni\C# Fundementals\C# OOP Advanced\4. Reflection and Attributes\P03_BarraksWars\bin\Debug\netcoreapp2.0\P03_BarraksWars.dll
+D:\programming\Softuni\C# Fundementals\C# OOP Advanced\4. Reflection and Attributes\P03_BarraksWars\bin\Debug\netcoreapp2.0\P03_BarraksWars.pdb

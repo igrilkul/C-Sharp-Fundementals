@@ -1,0 +1,10 @@
+D:\programming\Softuni\C# Fundementals\C# Advanced\2. Multidimensional Arrays\7. Lego Blocks\bin\Debug\netcoreapp2.0\7. Lego Blocks.deps.json
+D:\programming\Softuni\C# Fundementals\C# Advanced\2. Multidimensional Arrays\7. Lego Blocks\bin\Debug\netcoreapp2.0\7. Lego Blocks.runtimeconfig.json
+D:\programming\Softuni\C# Fundementals\C# Advanced\2. Multidimensional Arrays\7. Lego Blocks\bin\Debug\netcoreapp2.0\7. Lego Blocks.runtimeconfig.dev.json
+D:\programming\Softuni\C# Fundementals\C# Advanced\2. Multidimensional Arrays\7. Lego Blocks\bin\Debug\netcoreapp2.0\7. Lego Blocks.dll
+D:\programming\Softuni\C# Fundementals\C# Advanced\2. Multidimensional Arrays\7. Lego Blocks\bin\Debug\netcoreapp2.0\7. Lego Blocks.pdb
+D:\programming\Softuni\C# Fundementals\C# Advanced\2. Multidimensional Arrays\7. Lego Blocks\obj\Debug\netcoreapp2.0\7. Lego Blocks.csproj.CoreCompileInputs.cache
+D:\programming\Softuni\C# Fundementals\C# Advanced\2. Multidimensional Arrays\7. Lego Blocks\obj\Debug\netcoreapp2.0\7. Lego Blocks.AssemblyInfoInputs.cache
+D:\programming\Softuni\C# Fundementals\C# Advanced\2. Multidimensional Arrays\7. Lego Blocks\obj\Debug\netcoreapp2.0\7. Lego Blocks.AssemblyInfo.cs
+D:\programming\Softuni\C# Fundementals\C# Advanced\2. Multidimensional Arrays\7. Lego Blocks\obj\Debug\netcoreapp2.0\7. Lego Blocks.dll
+D:\programming\Softuni\C# Fundementals\C# Advanced\2. Multidimensional Arrays\7. Lego Blocks\obj\Debug\netcoreapp2.0\7. Lego Blocks.pdb

@@ -1,0 +1,11 @@
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\1. Defining Classes\3. Oldest Family Member\bin\Debug\netcoreapp2.0\3. Oldest Family Member.deps.json
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\1. Defining Classes\3. Oldest Family Member\bin\Debug\netcoreapp2.0\3. Oldest Family Member.runtimeconfig.json
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\1. Defining Classes\3. Oldest Family Member\bin\Debug\netcoreapp2.0\3. Oldest Family Member.runtimeconfig.dev.json
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\1. Defining Classes\3. Oldest Family Member\bin\Debug\netcoreapp2.0\3. Oldest Family Member.dll
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\1. Defining Classes\3. Oldest Family Member\bin\Debug\netcoreapp2.0\3. Oldest Family Member.pdb
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\1. Defining Classes\3. Oldest Family Member\obj\Debug\netcoreapp2.0\3. Oldest Family Member.csprojAssemblyReference.cache
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\1. Defining Classes\3. Oldest Family Member\obj\Debug\netcoreapp2.0\3. Oldest Family Member.csproj.CoreCompileInputs.cache
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\1. Defining Classes\3. Oldest Family Member\obj\Debug\netcoreapp2.0\3. Oldest Family Member.AssemblyInfoInputs.cache
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\1. Defining Classes\3. Oldest Family Member\obj\Debug\netcoreapp2.0\3. Oldest Family Member.AssemblyInfo.cs
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\1. Defining Classes\3. Oldest Family Member\obj\Debug\netcoreapp2.0\3. Oldest Family Member.dll
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\1. Defining Classes\3. Oldest Family Member\obj\Debug\netcoreapp2.0\3. Oldest Family Member.pdb

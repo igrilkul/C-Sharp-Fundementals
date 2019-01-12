@@ -1,0 +1,11 @@
+C:\Users\Jesus\source\repos\Exam\4. Cups and Bottles\bin\Debug\netcoreapp2.0\4. Cups and Bottles.deps.json
+C:\Users\Jesus\source\repos\Exam\4. Cups and Bottles\bin\Debug\netcoreapp2.0\4. Cups and Bottles.runtimeconfig.json
+C:\Users\Jesus\source\repos\Exam\4. Cups and Bottles\bin\Debug\netcoreapp2.0\4. Cups and Bottles.runtimeconfig.dev.json
+C:\Users\Jesus\source\repos\Exam\4. Cups and Bottles\bin\Debug\netcoreapp2.0\4. Cups and Bottles.dll
+C:\Users\Jesus\source\repos\Exam\4. Cups and Bottles\bin\Debug\netcoreapp2.0\4. Cups and Bottles.pdb
+C:\Users\Jesus\source\repos\Exam\4. Cups and Bottles\obj\Debug\netcoreapp2.0\4. Cups and Bottles.csprojResolveAssemblyReference.cache
+C:\Users\Jesus\source\repos\Exam\4. Cups and Bottles\obj\Debug\netcoreapp2.0\4. Cups and Bottles.csproj.CoreCompileInputs.cache
+C:\Users\Jesus\source\repos\Exam\4. Cups and Bottles\obj\Debug\netcoreapp2.0\4. Cups and Bottles.AssemblyInfoInputs.cache
+C:\Users\Jesus\source\repos\Exam\4. Cups and Bottles\obj\Debug\netcoreapp2.0\4. Cups and Bottles.AssemblyInfo.cs
+C:\Users\Jesus\source\repos\Exam\4. Cups and Bottles\obj\Debug\netcoreapp2.0\4. Cups and Bottles.dll
+C:\Users\Jesus\source\repos\Exam\4. Cups and Bottles\obj\Debug\netcoreapp2.0\4. Cups and Bottles.pdb

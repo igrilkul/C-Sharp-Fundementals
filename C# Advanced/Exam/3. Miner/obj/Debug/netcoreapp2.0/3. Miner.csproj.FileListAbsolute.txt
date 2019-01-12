@@ -1,0 +1,11 @@
+C:\Users\Jesus\source\repos\Exam\3. Miner\bin\Debug\netcoreapp2.0\3. Miner.deps.json
+C:\Users\Jesus\source\repos\Exam\3. Miner\bin\Debug\netcoreapp2.0\3. Miner.runtimeconfig.json
+C:\Users\Jesus\source\repos\Exam\3. Miner\bin\Debug\netcoreapp2.0\3. Miner.runtimeconfig.dev.json
+C:\Users\Jesus\source\repos\Exam\3. Miner\bin\Debug\netcoreapp2.0\3. Miner.dll
+C:\Users\Jesus\source\repos\Exam\3. Miner\bin\Debug\netcoreapp2.0\3. Miner.pdb
+C:\Users\Jesus\source\repos\Exam\3. Miner\obj\Debug\netcoreapp2.0\3. Miner.csprojResolveAssemblyReference.cache
+C:\Users\Jesus\source\repos\Exam\3. Miner\obj\Debug\netcoreapp2.0\3. Miner.csproj.CoreCompileInputs.cache
+C:\Users\Jesus\source\repos\Exam\3. Miner\obj\Debug\netcoreapp2.0\3. Miner.AssemblyInfoInputs.cache
+C:\Users\Jesus\source\repos\Exam\3. Miner\obj\Debug\netcoreapp2.0\3. Miner.AssemblyInfo.cs
+C:\Users\Jesus\source\repos\Exam\3. Miner\obj\Debug\netcoreapp2.0\3. Miner.dll
+C:\Users\Jesus\source\repos\Exam\3. Miner\obj\Debug\netcoreapp2.0\3. Miner.pdb

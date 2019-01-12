@@ -1,0 +1,11 @@
+D:\programming\Softuni\C# Fundementals\C# Advanced\4. Streams and Files\1. Odd Lines\bin\Debug\netcoreapp2.0\1. Odd Lines.deps.json
+D:\programming\Softuni\C# Fundementals\C# Advanced\4. Streams and Files\1. Odd Lines\bin\Debug\netcoreapp2.0\1. Odd Lines.runtimeconfig.json
+D:\programming\Softuni\C# Fundementals\C# Advanced\4. Streams and Files\1. Odd Lines\bin\Debug\netcoreapp2.0\1. Odd Lines.runtimeconfig.dev.json
+D:\programming\Softuni\C# Fundementals\C# Advanced\4. Streams and Files\1. Odd Lines\bin\Debug\netcoreapp2.0\1. Odd Lines.dll
+D:\programming\Softuni\C# Fundementals\C# Advanced\4. Streams and Files\1. Odd Lines\bin\Debug\netcoreapp2.0\1. Odd Lines.pdb
+D:\programming\Softuni\C# Fundementals\C# Advanced\4. Streams and Files\1. Odd Lines\obj\Debug\netcoreapp2.0\1. Odd Lines.csprojResolveAssemblyReference.cache
+D:\programming\Softuni\C# Fundementals\C# Advanced\4. Streams and Files\1. Odd Lines\obj\Debug\netcoreapp2.0\1. Odd Lines.csproj.CoreCompileInputs.cache
+D:\programming\Softuni\C# Fundementals\C# Advanced\4. Streams and Files\1. Odd Lines\obj\Debug\netcoreapp2.0\1. Odd Lines.AssemblyInfoInputs.cache
+D:\programming\Softuni\C# Fundementals\C# Advanced\4. Streams and Files\1. Odd Lines\obj\Debug\netcoreapp2.0\1. Odd Lines.AssemblyInfo.cs
+D:\programming\Softuni\C# Fundementals\C# Advanced\4. Streams and Files\1. Odd Lines\obj\Debug\netcoreapp2.0\1. Odd Lines.dll
+D:\programming\Softuni\C# Fundementals\C# Advanced\4. Streams and Files\1. Odd Lines\obj\Debug\netcoreapp2.0\1. Odd Lines.pdb

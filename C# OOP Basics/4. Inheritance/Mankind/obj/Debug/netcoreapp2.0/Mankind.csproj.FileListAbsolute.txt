@@ -1,0 +1,11 @@
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\4. Inheritance\Mankind\bin\Debug\netcoreapp2.0\Mankind.deps.json
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\4. Inheritance\Mankind\bin\Debug\netcoreapp2.0\Mankind.runtimeconfig.json
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\4. Inheritance\Mankind\bin\Debug\netcoreapp2.0\Mankind.runtimeconfig.dev.json
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\4. Inheritance\Mankind\bin\Debug\netcoreapp2.0\Mankind.dll
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\4. Inheritance\Mankind\bin\Debug\netcoreapp2.0\Mankind.pdb
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\4. Inheritance\Mankind\obj\Debug\netcoreapp2.0\Mankind.csprojAssemblyReference.cache
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\4. Inheritance\Mankind\obj\Debug\netcoreapp2.0\Mankind.csproj.CoreCompileInputs.cache
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\4. Inheritance\Mankind\obj\Debug\netcoreapp2.0\Mankind.AssemblyInfoInputs.cache
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\4. Inheritance\Mankind\obj\Debug\netcoreapp2.0\Mankind.AssemblyInfo.cs
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\4. Inheritance\Mankind\obj\Debug\netcoreapp2.0\Mankind.dll
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\4. Inheritance\Mankind\obj\Debug\netcoreapp2.0\Mankind.pdb

@@ -1,0 +1,11 @@
+D:\programming\Softuni\C# Fundementals\C# Advanced\4. Streams and Files\4. Copy Binary File\bin\Debug\netcoreapp2.0\4. Copy Binary File.deps.json
+D:\programming\Softuni\C# Fundementals\C# Advanced\4. Streams and Files\4. Copy Binary File\bin\Debug\netcoreapp2.0\4. Copy Binary File.runtimeconfig.json
+D:\programming\Softuni\C# Fundementals\C# Advanced\4. Streams and Files\4. Copy Binary File\bin\Debug\netcoreapp2.0\4. Copy Binary File.runtimeconfig.dev.json
+D:\programming\Softuni\C# Fundementals\C# Advanced\4. Streams and Files\4. Copy Binary File\bin\Debug\netcoreapp2.0\4. Copy Binary File.dll
+D:\programming\Softuni\C# Fundementals\C# Advanced\4. Streams and Files\4. Copy Binary File\bin\Debug\netcoreapp2.0\4. Copy Binary File.pdb
+D:\programming\Softuni\C# Fundementals\C# Advanced\4. Streams and Files\4. Copy Binary File\obj\Debug\netcoreapp2.0\4. Copy Binary File.csprojResolveAssemblyReference.cache
+D:\programming\Softuni\C# Fundementals\C# Advanced\4. Streams and Files\4. Copy Binary File\obj\Debug\netcoreapp2.0\4. Copy Binary File.csproj.CoreCompileInputs.cache
+D:\programming\Softuni\C# Fundementals\C# Advanced\4. Streams and Files\4. Copy Binary File\obj\Debug\netcoreapp2.0\4. Copy Binary File.AssemblyInfoInputs.cache
+D:\programming\Softuni\C# Fundementals\C# Advanced\4. Streams and Files\4. Copy Binary File\obj\Debug\netcoreapp2.0\4. Copy Binary File.AssemblyInfo.cs
+D:\programming\Softuni\C# Fundementals\C# Advanced\4. Streams and Files\4. Copy Binary File\obj\Debug\netcoreapp2.0\4. Copy Binary File.dll
+D:\programming\Softuni\C# Fundementals\C# Advanced\4. Streams and Files\4. Copy Binary File\obj\Debug\netcoreapp2.0\4. Copy Binary File.pdb

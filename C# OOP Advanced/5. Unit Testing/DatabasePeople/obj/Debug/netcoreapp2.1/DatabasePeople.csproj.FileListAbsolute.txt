@@ -1,0 +1,11 @@
+D:\programming\Softuni\C# Fundementals\C# OOP Advanced\5. Unit Testing\DatabasePeople\bin\Debug\netcoreapp2.1\DatabasePeople.deps.json
+D:\programming\Softuni\C# Fundementals\C# OOP Advanced\5. Unit Testing\DatabasePeople\bin\Debug\netcoreapp2.1\DatabasePeople.runtimeconfig.json
+D:\programming\Softuni\C# Fundementals\C# OOP Advanced\5. Unit Testing\DatabasePeople\bin\Debug\netcoreapp2.1\DatabasePeople.runtimeconfig.dev.json
+D:\programming\Softuni\C# Fundementals\C# OOP Advanced\5. Unit Testing\DatabasePeople\bin\Debug\netcoreapp2.1\DatabasePeople.dll
+D:\programming\Softuni\C# Fundementals\C# OOP Advanced\5. Unit Testing\DatabasePeople\bin\Debug\netcoreapp2.1\DatabasePeople.pdb
+D:\programming\Softuni\C# Fundementals\C# OOP Advanced\5. Unit Testing\DatabasePeople\obj\Debug\netcoreapp2.1\DatabasePeople.csprojAssemblyReference.cache
+D:\programming\Softuni\C# Fundementals\C# OOP Advanced\5. Unit Testing\DatabasePeople\obj\Debug\netcoreapp2.1\DatabasePeople.csproj.CoreCompileInputs.cache
+D:\programming\Softuni\C# Fundementals\C# OOP Advanced\5. Unit Testing\DatabasePeople\obj\Debug\netcoreapp2.1\DatabasePeople.AssemblyInfoInputs.cache
+D:\programming\Softuni\C# Fundementals\C# OOP Advanced\5. Unit Testing\DatabasePeople\obj\Debug\netcoreapp2.1\DatabasePeople.AssemblyInfo.cs
+D:\programming\Softuni\C# Fundementals\C# OOP Advanced\5. Unit Testing\DatabasePeople\obj\Debug\netcoreapp2.1\DatabasePeople.dll
+D:\programming\Softuni\C# Fundementals\C# OOP Advanced\5. Unit Testing\DatabasePeople\obj\Debug\netcoreapp2.1\DatabasePeople.pdb

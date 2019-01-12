@@ -1,0 +1,11 @@
+D:\programming\Softuni\C# Fundementals\C# Advanced\4. Streams and Files\2. Line Numbers\bin\Debug\netcoreapp2.0\2. Line Numbers.deps.json
+D:\programming\Softuni\C# Fundementals\C# Advanced\4. Streams and Files\2. Line Numbers\bin\Debug\netcoreapp2.0\2. Line Numbers.runtimeconfig.json
+D:\programming\Softuni\C# Fundementals\C# Advanced\4. Streams and Files\2. Line Numbers\bin\Debug\netcoreapp2.0\2. Line Numbers.runtimeconfig.dev.json
+D:\programming\Softuni\C# Fundementals\C# Advanced\4. Streams and Files\2. Line Numbers\bin\Debug\netcoreapp2.0\2. Line Numbers.dll
+D:\programming\Softuni\C# Fundementals\C# Advanced\4. Streams and Files\2. Line Numbers\bin\Debug\netcoreapp2.0\2. Line Numbers.pdb
+D:\programming\Softuni\C# Fundementals\C# Advanced\4. Streams and Files\2. Line Numbers\obj\Debug\netcoreapp2.0\2. Line Numbers.csprojResolveAssemblyReference.cache
+D:\programming\Softuni\C# Fundementals\C# Advanced\4. Streams and Files\2. Line Numbers\obj\Debug\netcoreapp2.0\2. Line Numbers.csproj.CoreCompileInputs.cache
+D:\programming\Softuni\C# Fundementals\C# Advanced\4. Streams and Files\2. Line Numbers\obj\Debug\netcoreapp2.0\2. Line Numbers.AssemblyInfoInputs.cache
+D:\programming\Softuni\C# Fundementals\C# Advanced\4. Streams and Files\2. Line Numbers\obj\Debug\netcoreapp2.0\2. Line Numbers.AssemblyInfo.cs
+D:\programming\Softuni\C# Fundementals\C# Advanced\4. Streams and Files\2. Line Numbers\obj\Debug\netcoreapp2.0\2. Line Numbers.dll
+D:\programming\Softuni\C# Fundementals\C# Advanced\4. Streams and Files\2. Line Numbers\obj\Debug\netcoreapp2.0\2. Line Numbers.pdb

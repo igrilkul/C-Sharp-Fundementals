@@ -1,0 +1,11 @@
+D:\programming\Softuni\C# Fundementals\C# Advanced\1. Stacks and Queues\7. Balanced Parentheses\bin\Debug\netcoreapp2.0\7. Balanced Parentheses.deps.json
+D:\programming\Softuni\C# Fundementals\C# Advanced\1. Stacks and Queues\7. Balanced Parentheses\bin\Debug\netcoreapp2.0\7. Balanced Parentheses.runtimeconfig.json
+D:\programming\Softuni\C# Fundementals\C# Advanced\1. Stacks and Queues\7. Balanced Parentheses\bin\Debug\netcoreapp2.0\7. Balanced Parentheses.runtimeconfig.dev.json
+D:\programming\Softuni\C# Fundementals\C# Advanced\1. Stacks and Queues\7. Balanced Parentheses\bin\Debug\netcoreapp2.0\7. Balanced Parentheses.dll
+D:\programming\Softuni\C# Fundementals\C# Advanced\1. Stacks and Queues\7. Balanced Parentheses\bin\Debug\netcoreapp2.0\7. Balanced Parentheses.pdb
+D:\programming\Softuni\C# Fundementals\C# Advanced\1. Stacks and Queues\7. Balanced Parentheses\obj\Debug\netcoreapp2.0\7. Balanced Parentheses.csprojResolveAssemblyReference.cache
+D:\programming\Softuni\C# Fundementals\C# Advanced\1. Stacks and Queues\7. Balanced Parentheses\obj\Debug\netcoreapp2.0\7. Balanced Parentheses.csproj.CoreCompileInputs.cache
+D:\programming\Softuni\C# Fundementals\C# Advanced\1. Stacks and Queues\7. Balanced Parentheses\obj\Debug\netcoreapp2.0\7. Balanced Parentheses.AssemblyInfoInputs.cache
+D:\programming\Softuni\C# Fundementals\C# Advanced\1. Stacks and Queues\7. Balanced Parentheses\obj\Debug\netcoreapp2.0\7. Balanced Parentheses.AssemblyInfo.cs
+D:\programming\Softuni\C# Fundementals\C# Advanced\1. Stacks and Queues\7. Balanced Parentheses\obj\Debug\netcoreapp2.0\7. Balanced Parentheses.dll
+D:\programming\Softuni\C# Fundementals\C# Advanced\1. Stacks and Queues\7. Balanced Parentheses\obj\Debug\netcoreapp2.0\7. Balanced Parentheses.pdb

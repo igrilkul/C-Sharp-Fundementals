@@ -1,0 +1,11 @@
+D:\programming\Softuni\C# Fundementals\C# Advanced\3. Sets and Dictionaries Advanced\6. Wardrobe\bin\Debug\netcoreapp2.0\6. Wardrobe.deps.json
+D:\programming\Softuni\C# Fundementals\C# Advanced\3. Sets and Dictionaries Advanced\6. Wardrobe\bin\Debug\netcoreapp2.0\6. Wardrobe.runtimeconfig.json
+D:\programming\Softuni\C# Fundementals\C# Advanced\3. Sets and Dictionaries Advanced\6. Wardrobe\bin\Debug\netcoreapp2.0\6. Wardrobe.runtimeconfig.dev.json
+D:\programming\Softuni\C# Fundementals\C# Advanced\3. Sets and Dictionaries Advanced\6. Wardrobe\bin\Debug\netcoreapp2.0\6. Wardrobe.dll
+D:\programming\Softuni\C# Fundementals\C# Advanced\3. Sets and Dictionaries Advanced\6. Wardrobe\bin\Debug\netcoreapp2.0\6. Wardrobe.pdb
+D:\programming\Softuni\C# Fundementals\C# Advanced\3. Sets and Dictionaries Advanced\6. Wardrobe\obj\Debug\netcoreapp2.0\6. Wardrobe.csprojResolveAssemblyReference.cache
+D:\programming\Softuni\C# Fundementals\C# Advanced\3. Sets and Dictionaries Advanced\6. Wardrobe\obj\Debug\netcoreapp2.0\6. Wardrobe.csproj.CoreCompileInputs.cache
+D:\programming\Softuni\C# Fundementals\C# Advanced\3. Sets and Dictionaries Advanced\6. Wardrobe\obj\Debug\netcoreapp2.0\6. Wardrobe.AssemblyInfoInputs.cache
+D:\programming\Softuni\C# Fundementals\C# Advanced\3. Sets and Dictionaries Advanced\6. Wardrobe\obj\Debug\netcoreapp2.0\6. Wardrobe.AssemblyInfo.cs
+D:\programming\Softuni\C# Fundementals\C# Advanced\3. Sets and Dictionaries Advanced\6. Wardrobe\obj\Debug\netcoreapp2.0\6. Wardrobe.dll
+D:\programming\Softuni\C# Fundementals\C# Advanced\3. Sets and Dictionaries Advanced\6. Wardrobe\obj\Debug\netcoreapp2.0\6. Wardrobe.pdb

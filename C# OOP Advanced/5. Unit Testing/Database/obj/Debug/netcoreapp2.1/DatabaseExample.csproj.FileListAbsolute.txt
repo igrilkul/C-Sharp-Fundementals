@@ -1,0 +1,11 @@
+D:\programming\Softuni\C# Fundementals\C# OOP Advanced\5. Unit Testing\Database\bin\Debug\netcoreapp2.1\DatabaseExample.deps.json
+D:\programming\Softuni\C# Fundementals\C# OOP Advanced\5. Unit Testing\Database\bin\Debug\netcoreapp2.1\DatabaseExample.runtimeconfig.json
+D:\programming\Softuni\C# Fundementals\C# OOP Advanced\5. Unit Testing\Database\bin\Debug\netcoreapp2.1\DatabaseExample.runtimeconfig.dev.json
+D:\programming\Softuni\C# Fundementals\C# OOP Advanced\5. Unit Testing\Database\bin\Debug\netcoreapp2.1\DatabaseExample.dll
+D:\programming\Softuni\C# Fundementals\C# OOP Advanced\5. Unit Testing\Database\bin\Debug\netcoreapp2.1\DatabaseExample.pdb
+D:\programming\Softuni\C# Fundementals\C# OOP Advanced\5. Unit Testing\Database\obj\Debug\netcoreapp2.1\DatabaseExample.csprojAssemblyReference.cache
+D:\programming\Softuni\C# Fundementals\C# OOP Advanced\5. Unit Testing\Database\obj\Debug\netcoreapp2.1\DatabaseExample.csproj.CoreCompileInputs.cache
+D:\programming\Softuni\C# Fundementals\C# OOP Advanced\5. Unit Testing\Database\obj\Debug\netcoreapp2.1\DatabaseExample.AssemblyInfoInputs.cache
+D:\programming\Softuni\C# Fundementals\C# OOP Advanced\5. Unit Testing\Database\obj\Debug\netcoreapp2.1\DatabaseExample.AssemblyInfo.cs
+D:\programming\Softuni\C# Fundementals\C# OOP Advanced\5. Unit Testing\Database\obj\Debug\netcoreapp2.1\DatabaseExample.dll
+D:\programming\Softuni\C# Fundementals\C# OOP Advanced\5. Unit Testing\Database\obj\Debug\netcoreapp2.1\DatabaseExample.pdb

@@ -1,0 +1,11 @@
+D:\programming\Softuni\C# Fundementals\C# Advanced\4. Streams and Files\6. Zipping Sliced Files\bin\Debug\netcoreapp2.0\6. Zipping Sliced Files.deps.json
+D:\programming\Softuni\C# Fundementals\C# Advanced\4. Streams and Files\6. Zipping Sliced Files\bin\Debug\netcoreapp2.0\6. Zipping Sliced Files.runtimeconfig.json
+D:\programming\Softuni\C# Fundementals\C# Advanced\4. Streams and Files\6. Zipping Sliced Files\bin\Debug\netcoreapp2.0\6. Zipping Sliced Files.runtimeconfig.dev.json
+D:\programming\Softuni\C# Fundementals\C# Advanced\4. Streams and Files\6. Zipping Sliced Files\bin\Debug\netcoreapp2.0\6. Zipping Sliced Files.dll
+D:\programming\Softuni\C# Fundementals\C# Advanced\4. Streams and Files\6. Zipping Sliced Files\bin\Debug\netcoreapp2.0\6. Zipping Sliced Files.pdb
+D:\programming\Softuni\C# Fundementals\C# Advanced\4. Streams and Files\6. Zipping Sliced Files\obj\Debug\netcoreapp2.0\6. Zipping Sliced Files.csprojResolveAssemblyReference.cache
+D:\programming\Softuni\C# Fundementals\C# Advanced\4. Streams and Files\6. Zipping Sliced Files\obj\Debug\netcoreapp2.0\6. Zipping Sliced Files.csproj.CoreCompileInputs.cache
+D:\programming\Softuni\C# Fundementals\C# Advanced\4. Streams and Files\6. Zipping Sliced Files\obj\Debug\netcoreapp2.0\6. Zipping Sliced Files.AssemblyInfoInputs.cache
+D:\programming\Softuni\C# Fundementals\C# Advanced\4. Streams and Files\6. Zipping Sliced Files\obj\Debug\netcoreapp2.0\6. Zipping Sliced Files.AssemblyInfo.cs
+D:\programming\Softuni\C# Fundementals\C# Advanced\4. Streams and Files\6. Zipping Sliced Files\obj\Debug\netcoreapp2.0\6. Zipping Sliced Files.dll
+D:\programming\Softuni\C# Fundementals\C# Advanced\4. Streams and Files\6. Zipping Sliced Files\obj\Debug\netcoreapp2.0\6. Zipping Sliced Files.pdb

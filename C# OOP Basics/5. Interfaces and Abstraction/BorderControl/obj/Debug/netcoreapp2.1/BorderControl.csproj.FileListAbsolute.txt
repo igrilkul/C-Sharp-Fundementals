@@ -1,0 +1,11 @@
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\5. Interfaces and Abstraction\BorderControl\bin\Debug\netcoreapp2.1\BorderControl.deps.json
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\5. Interfaces and Abstraction\BorderControl\bin\Debug\netcoreapp2.1\BorderControl.runtimeconfig.json
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\5. Interfaces and Abstraction\BorderControl\bin\Debug\netcoreapp2.1\BorderControl.runtimeconfig.dev.json
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\5. Interfaces and Abstraction\BorderControl\bin\Debug\netcoreapp2.1\BorderControl.dll
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\5. Interfaces and Abstraction\BorderControl\bin\Debug\netcoreapp2.1\BorderControl.pdb
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\5. Interfaces and Abstraction\BorderControl\obj\Debug\netcoreapp2.1\BorderControl.csprojAssemblyReference.cache
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\5. Interfaces and Abstraction\BorderControl\obj\Debug\netcoreapp2.1\BorderControl.csproj.CoreCompileInputs.cache
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\5. Interfaces and Abstraction\BorderControl\obj\Debug\netcoreapp2.1\BorderControl.AssemblyInfoInputs.cache
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\5. Interfaces and Abstraction\BorderControl\obj\Debug\netcoreapp2.1\BorderControl.AssemblyInfo.cs
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\5. Interfaces and Abstraction\BorderControl\obj\Debug\netcoreapp2.1\BorderControl.dll
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\5. Interfaces and Abstraction\BorderControl\obj\Debug\netcoreapp2.1\BorderControl.pdb

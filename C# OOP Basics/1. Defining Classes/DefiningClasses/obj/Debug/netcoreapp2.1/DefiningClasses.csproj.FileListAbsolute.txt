@@ -1,0 +1,10 @@
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\1. Defining Classes\DefiningClasses\bin\Debug\netcoreapp2.1\DefiningClasses.deps.json
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\1. Defining Classes\DefiningClasses\bin\Debug\netcoreapp2.1\DefiningClasses.runtimeconfig.json
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\1. Defining Classes\DefiningClasses\bin\Debug\netcoreapp2.1\DefiningClasses.runtimeconfig.dev.json
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\1. Defining Classes\DefiningClasses\bin\Debug\netcoreapp2.1\DefiningClasses.dll
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\1. Defining Classes\DefiningClasses\bin\Debug\netcoreapp2.1\DefiningClasses.pdb
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\1. Defining Classes\DefiningClasses\obj\Debug\netcoreapp2.1\DefiningClasses.csproj.CoreCompileInputs.cache
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\1. Defining Classes\DefiningClasses\obj\Debug\netcoreapp2.1\DefiningClasses.AssemblyInfoInputs.cache
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\1. Defining Classes\DefiningClasses\obj\Debug\netcoreapp2.1\DefiningClasses.AssemblyInfo.cs
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\1. Defining Classes\DefiningClasses\obj\Debug\netcoreapp2.1\DefiningClasses.dll
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\1. Defining Classes\DefiningClasses\obj\Debug\netcoreapp2.1\DefiningClasses.pdb

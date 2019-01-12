@@ -1,0 +1,11 @@
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\1. Defining Classes\6. Company Roster\bin\Debug\netcoreapp2.0\CompanyRoster.deps.json
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\1. Defining Classes\6. Company Roster\bin\Debug\netcoreapp2.0\CompanyRoster.runtimeconfig.json
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\1. Defining Classes\6. Company Roster\bin\Debug\netcoreapp2.0\CompanyRoster.runtimeconfig.dev.json
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\1. Defining Classes\6. Company Roster\bin\Debug\netcoreapp2.0\CompanyRoster.dll
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\1. Defining Classes\6. Company Roster\bin\Debug\netcoreapp2.0\CompanyRoster.pdb
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\1. Defining Classes\6. Company Roster\obj\Debug\netcoreapp2.0\CompanyRoster.csproj.CoreCompileInputs.cache
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\1. Defining Classes\6. Company Roster\obj\Debug\netcoreapp2.0\CompanyRoster.AssemblyInfoInputs.cache
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\1. Defining Classes\6. Company Roster\obj\Debug\netcoreapp2.0\CompanyRoster.AssemblyInfo.cs
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\1. Defining Classes\6. Company Roster\obj\Debug\netcoreapp2.0\CompanyRoster.dll
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\1. Defining Classes\6. Company Roster\obj\Debug\netcoreapp2.0\CompanyRoster.pdb
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\1. Defining Classes\6. Company Roster\obj\Debug\netcoreapp2.0\CompanyRoster.csprojAssemblyReference.cache

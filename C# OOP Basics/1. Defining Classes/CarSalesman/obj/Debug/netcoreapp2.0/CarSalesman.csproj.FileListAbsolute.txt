@@ -1,0 +1,11 @@
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\1. Defining Classes\CarSalesman\obj\Debug\netcoreapp2.0\CarSalesman.csprojAssemblyReference.cache
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\1. Defining Classes\CarSalesman\obj\Debug\netcoreapp2.0\CarSalesman.csproj.CoreCompileInputs.cache
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\1. Defining Classes\CarSalesman\obj\Debug\netcoreapp2.0\CarSalesman.AssemblyInfoInputs.cache
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\1. Defining Classes\CarSalesman\obj\Debug\netcoreapp2.0\CarSalesman.AssemblyInfo.cs
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\1. Defining Classes\CarSalesman\bin\Debug\netcoreapp2.0\CarSalesman.deps.json
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\1. Defining Classes\CarSalesman\bin\Debug\netcoreapp2.0\CarSalesman.runtimeconfig.json
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\1. Defining Classes\CarSalesman\bin\Debug\netcoreapp2.0\CarSalesman.runtimeconfig.dev.json
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\1. Defining Classes\CarSalesman\bin\Debug\netcoreapp2.0\CarSalesman.dll
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\1. Defining Classes\CarSalesman\bin\Debug\netcoreapp2.0\CarSalesman.pdb
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\1. Defining Classes\CarSalesman\obj\Debug\netcoreapp2.0\CarSalesman.dll
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\1. Defining Classes\CarSalesman\obj\Debug\netcoreapp2.0\CarSalesman.pdb

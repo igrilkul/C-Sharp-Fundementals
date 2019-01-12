@@ -1,0 +1,11 @@
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\2. Working with Abstraction\CarSalesman\bin\Debug\netcoreapp2.1\CarSalesman.deps.json
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\2. Working with Abstraction\CarSalesman\bin\Debug\netcoreapp2.1\CarSalesman.runtimeconfig.json
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\2. Working with Abstraction\CarSalesman\bin\Debug\netcoreapp2.1\CarSalesman.runtimeconfig.dev.json
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\2. Working with Abstraction\CarSalesman\bin\Debug\netcoreapp2.1\CarSalesman.dll
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\2. Working with Abstraction\CarSalesman\bin\Debug\netcoreapp2.1\CarSalesman.pdb
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\2. Working with Abstraction\CarSalesman\obj\Debug\netcoreapp2.1\CarSalesman.csprojAssemblyReference.cache
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\2. Working with Abstraction\CarSalesman\obj\Debug\netcoreapp2.1\CarSalesman.csproj.CoreCompileInputs.cache
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\2. Working with Abstraction\CarSalesman\obj\Debug\netcoreapp2.1\CarSalesman.AssemblyInfoInputs.cache
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\2. Working with Abstraction\CarSalesman\obj\Debug\netcoreapp2.1\CarSalesman.AssemblyInfo.cs
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\2. Working with Abstraction\CarSalesman\obj\Debug\netcoreapp2.1\CarSalesman.dll
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\2. Working with Abstraction\CarSalesman\obj\Debug\netcoreapp2.1\CarSalesman.pdb

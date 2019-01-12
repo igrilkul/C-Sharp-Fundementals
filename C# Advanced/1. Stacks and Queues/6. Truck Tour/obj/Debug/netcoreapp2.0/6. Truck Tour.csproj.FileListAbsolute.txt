@@ -1,0 +1,11 @@
+D:\programming\Softuni\C# Fundementals\C# Advanced\1. Stacks and Queues\6. Truck Tour\obj\Debug\netcoreapp2.0\6. Truck Tour.csprojResolveAssemblyReference.cache
+D:\programming\Softuni\C# Fundementals\C# Advanced\1. Stacks and Queues\6. Truck Tour\obj\Debug\netcoreapp2.0\6. Truck Tour.csproj.CoreCompileInputs.cache
+D:\programming\Softuni\C# Fundementals\C# Advanced\1. Stacks and Queues\6. Truck Tour\obj\Debug\netcoreapp2.0\6. Truck Tour.AssemblyInfoInputs.cache
+D:\programming\Softuni\C# Fundementals\C# Advanced\1. Stacks and Queues\6. Truck Tour\obj\Debug\netcoreapp2.0\6. Truck Tour.AssemblyInfo.cs
+D:\programming\Softuni\C# Fundementals\C# Advanced\1. Stacks and Queues\6. Truck Tour\bin\Debug\netcoreapp2.0\6. Truck Tour.deps.json
+D:\programming\Softuni\C# Fundementals\C# Advanced\1. Stacks and Queues\6. Truck Tour\bin\Debug\netcoreapp2.0\6. Truck Tour.runtimeconfig.json
+D:\programming\Softuni\C# Fundementals\C# Advanced\1. Stacks and Queues\6. Truck Tour\bin\Debug\netcoreapp2.0\6. Truck Tour.runtimeconfig.dev.json
+D:\programming\Softuni\C# Fundementals\C# Advanced\1. Stacks and Queues\6. Truck Tour\bin\Debug\netcoreapp2.0\6. Truck Tour.dll
+D:\programming\Softuni\C# Fundementals\C# Advanced\1. Stacks and Queues\6. Truck Tour\bin\Debug\netcoreapp2.0\6. Truck Tour.pdb
+D:\programming\Softuni\C# Fundementals\C# Advanced\1. Stacks and Queues\6. Truck Tour\obj\Debug\netcoreapp2.0\6. Truck Tour.dll
+D:\programming\Softuni\C# Fundementals\C# Advanced\1. Stacks and Queues\6. Truck Tour\obj\Debug\netcoreapp2.0\6. Truck Tour.pdb

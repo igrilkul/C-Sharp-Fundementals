@@ -1,0 +1,11 @@
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\6. Polymorphism\WildFarm\bin\Debug\netcoreapp2.0\WildFarm.deps.json
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\6. Polymorphism\WildFarm\bin\Debug\netcoreapp2.0\WildFarm.runtimeconfig.json
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\6. Polymorphism\WildFarm\bin\Debug\netcoreapp2.0\WildFarm.runtimeconfig.dev.json
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\6. Polymorphism\WildFarm\bin\Debug\netcoreapp2.0\WildFarm.dll
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\6. Polymorphism\WildFarm\bin\Debug\netcoreapp2.0\WildFarm.pdb
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\6. Polymorphism\WildFarm\obj\Debug\netcoreapp2.0\WildFarm.csprojAssemblyReference.cache
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\6. Polymorphism\WildFarm\obj\Debug\netcoreapp2.0\WildFarm.csproj.CoreCompileInputs.cache
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\6. Polymorphism\WildFarm\obj\Debug\netcoreapp2.0\WildFarm.AssemblyInfoInputs.cache
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\6. Polymorphism\WildFarm\obj\Debug\netcoreapp2.0\WildFarm.AssemblyInfo.cs
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\6. Polymorphism\WildFarm\obj\Debug\netcoreapp2.0\WildFarm.dll
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\6. Polymorphism\WildFarm\obj\Debug\netcoreapp2.0\WildFarm.pdb

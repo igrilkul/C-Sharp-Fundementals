@@ -1,0 +1,11 @@
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\2. Working with Abstraction\RawData\bin\Debug\netcoreapp2.0\RawData.deps.json
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\2. Working with Abstraction\RawData\bin\Debug\netcoreapp2.0\RawData.runtimeconfig.json
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\2. Working with Abstraction\RawData\bin\Debug\netcoreapp2.0\RawData.runtimeconfig.dev.json
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\2. Working with Abstraction\RawData\bin\Debug\netcoreapp2.0\RawData.dll
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\2. Working with Abstraction\RawData\bin\Debug\netcoreapp2.0\RawData.pdb
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\2. Working with Abstraction\RawData\obj\Debug\netcoreapp2.0\RawData.csprojAssemblyReference.cache
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\2. Working with Abstraction\RawData\obj\Debug\netcoreapp2.0\RawData.csproj.CoreCompileInputs.cache
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\2. Working with Abstraction\RawData\obj\Debug\netcoreapp2.0\RawData.AssemblyInfoInputs.cache
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\2. Working with Abstraction\RawData\obj\Debug\netcoreapp2.0\RawData.AssemblyInfo.cs
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\2. Working with Abstraction\RawData\obj\Debug\netcoreapp2.0\RawData.dll
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\2. Working with Abstraction\RawData\obj\Debug\netcoreapp2.0\RawData.pdb

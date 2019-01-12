@@ -1,0 +1,11 @@
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\6. Polymorphism\Vehicles\bin\Debug\netcoreapp2.1\Vehicles.deps.json
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\6. Polymorphism\Vehicles\bin\Debug\netcoreapp2.1\Vehicles.runtimeconfig.json
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\6. Polymorphism\Vehicles\bin\Debug\netcoreapp2.1\Vehicles.runtimeconfig.dev.json
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\6. Polymorphism\Vehicles\bin\Debug\netcoreapp2.1\Vehicles.dll
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\6. Polymorphism\Vehicles\bin\Debug\netcoreapp2.1\Vehicles.pdb
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\6. Polymorphism\Vehicles\obj\Debug\netcoreapp2.1\Vehicles.csprojAssemblyReference.cache
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\6. Polymorphism\Vehicles\obj\Debug\netcoreapp2.1\Vehicles.csproj.CoreCompileInputs.cache
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\6. Polymorphism\Vehicles\obj\Debug\netcoreapp2.1\Vehicles.AssemblyInfoInputs.cache
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\6. Polymorphism\Vehicles\obj\Debug\netcoreapp2.1\Vehicles.AssemblyInfo.cs
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\6. Polymorphism\Vehicles\obj\Debug\netcoreapp2.1\Vehicles.dll
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\6. Polymorphism\Vehicles\obj\Debug\netcoreapp2.1\Vehicles.pdb

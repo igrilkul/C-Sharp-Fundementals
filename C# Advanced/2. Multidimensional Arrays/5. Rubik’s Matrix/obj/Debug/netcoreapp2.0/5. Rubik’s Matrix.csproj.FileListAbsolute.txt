@@ -1,0 +1,11 @@
+D:\programming\Softuni\C# Fundementals\C# Advanced\2. Multidimensional Arrays\5. Rubik’s Matrix\bin\Debug\netcoreapp2.0\5. Rubik’s Matrix.deps.json
+D:\programming\Softuni\C# Fundementals\C# Advanced\2. Multidimensional Arrays\5. Rubik’s Matrix\bin\Debug\netcoreapp2.0\5. Rubik’s Matrix.runtimeconfig.json
+D:\programming\Softuni\C# Fundementals\C# Advanced\2. Multidimensional Arrays\5. Rubik’s Matrix\bin\Debug\netcoreapp2.0\5. Rubik’s Matrix.runtimeconfig.dev.json
+D:\programming\Softuni\C# Fundementals\C# Advanced\2. Multidimensional Arrays\5. Rubik’s Matrix\bin\Debug\netcoreapp2.0\5. Rubik’s Matrix.dll
+D:\programming\Softuni\C# Fundementals\C# Advanced\2. Multidimensional Arrays\5. Rubik’s Matrix\bin\Debug\netcoreapp2.0\5. Rubik’s Matrix.pdb
+D:\programming\Softuni\C# Fundementals\C# Advanced\2. Multidimensional Arrays\5. Rubik’s Matrix\obj\Debug\netcoreapp2.0\5. Rubik’s Matrix.csprojResolveAssemblyReference.cache
+D:\programming\Softuni\C# Fundementals\C# Advanced\2. Multidimensional Arrays\5. Rubik’s Matrix\obj\Debug\netcoreapp2.0\5. Rubik’s Matrix.csproj.CoreCompileInputs.cache
+D:\programming\Softuni\C# Fundementals\C# Advanced\2. Multidimensional Arrays\5. Rubik’s Matrix\obj\Debug\netcoreapp2.0\5. Rubik’s Matrix.AssemblyInfoInputs.cache
+D:\programming\Softuni\C# Fundementals\C# Advanced\2. Multidimensional Arrays\5. Rubik’s Matrix\obj\Debug\netcoreapp2.0\5. Rubik’s Matrix.AssemblyInfo.cs
+D:\programming\Softuni\C# Fundementals\C# Advanced\2. Multidimensional Arrays\5. Rubik’s Matrix\obj\Debug\netcoreapp2.0\5. Rubik’s Matrix.dll
+D:\programming\Softuni\C# Fundementals\C# Advanced\2. Multidimensional Arrays\5. Rubik’s Matrix\obj\Debug\netcoreapp2.0\5. Rubik’s Matrix.pdb

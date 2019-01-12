@@ -1,0 +1,11 @@
+D:\programming\Softuni\C# Fundementals\C# Advanced\5. Functional Programming\11. Party Reservation Filter Mode\bin\Debug\netcoreapp2.0\11. Party Reservation Filter Mode.deps.json
+D:\programming\Softuni\C# Fundementals\C# Advanced\5. Functional Programming\11. Party Reservation Filter Mode\bin\Debug\netcoreapp2.0\11. Party Reservation Filter Mode.runtimeconfig.json
+D:\programming\Softuni\C# Fundementals\C# Advanced\5. Functional Programming\11. Party Reservation Filter Mode\bin\Debug\netcoreapp2.0\11. Party Reservation Filter Mode.runtimeconfig.dev.json
+D:\programming\Softuni\C# Fundementals\C# Advanced\5. Functional Programming\11. Party Reservation Filter Mode\bin\Debug\netcoreapp2.0\11. Party Reservation Filter Mode.dll
+D:\programming\Softuni\C# Fundementals\C# Advanced\5. Functional Programming\11. Party Reservation Filter Mode\bin\Debug\netcoreapp2.0\11. Party Reservation Filter Mode.pdb
+D:\programming\Softuni\C# Fundementals\C# Advanced\5. Functional Programming\11. Party Reservation Filter Mode\obj\Debug\netcoreapp2.0\11. Party Reservation Filter Mode.csprojResolveAssemblyReference.cache
+D:\programming\Softuni\C# Fundementals\C# Advanced\5. Functional Programming\11. Party Reservation Filter Mode\obj\Debug\netcoreapp2.0\11. Party Reservation Filter Mode.csproj.CoreCompileInputs.cache
+D:\programming\Softuni\C# Fundementals\C# Advanced\5. Functional Programming\11. Party Reservation Filter Mode\obj\Debug\netcoreapp2.0\11. Party Reservation Filter Mode.AssemblyInfoInputs.cache
+D:\programming\Softuni\C# Fundementals\C# Advanced\5. Functional Programming\11. Party Reservation Filter Mode\obj\Debug\netcoreapp2.0\11. Party Reservation Filter Mode.AssemblyInfo.cs
+D:\programming\Softuni\C# Fundementals\C# Advanced\5. Functional Programming\11. Party Reservation Filter Mode\obj\Debug\netcoreapp2.0\11. Party Reservation Filter Mode.dll
+D:\programming\Softuni\C# Fundementals\C# Advanced\5. Functional Programming\11. Party Reservation Filter Mode\obj\Debug\netcoreapp2.0\11. Party Reservation Filter Mode.pdb

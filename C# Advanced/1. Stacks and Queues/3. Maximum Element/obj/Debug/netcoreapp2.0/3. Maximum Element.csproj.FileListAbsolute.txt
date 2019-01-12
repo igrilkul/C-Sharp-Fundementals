@@ -1,0 +1,11 @@
+D:\programming\Softuni\C# Fundementals\C# Advanced\1. Stacks and Queues\3. Maximum Element\bin\Debug\netcoreapp2.0\3. Maximum Element.deps.json
+D:\programming\Softuni\C# Fundementals\C# Advanced\1. Stacks and Queues\3. Maximum Element\bin\Debug\netcoreapp2.0\3. Maximum Element.runtimeconfig.json
+D:\programming\Softuni\C# Fundementals\C# Advanced\1. Stacks and Queues\3. Maximum Element\bin\Debug\netcoreapp2.0\3. Maximum Element.runtimeconfig.dev.json
+D:\programming\Softuni\C# Fundementals\C# Advanced\1. Stacks and Queues\3. Maximum Element\bin\Debug\netcoreapp2.0\3. Maximum Element.dll
+D:\programming\Softuni\C# Fundementals\C# Advanced\1. Stacks and Queues\3. Maximum Element\bin\Debug\netcoreapp2.0\3. Maximum Element.pdb
+D:\programming\Softuni\C# Fundementals\C# Advanced\1. Stacks and Queues\3. Maximum Element\obj\Debug\netcoreapp2.0\3. Maximum Element.csprojResolveAssemblyReference.cache
+D:\programming\Softuni\C# Fundementals\C# Advanced\1. Stacks and Queues\3. Maximum Element\obj\Debug\netcoreapp2.0\3. Maximum Element.csproj.CoreCompileInputs.cache
+D:\programming\Softuni\C# Fundementals\C# Advanced\1. Stacks and Queues\3. Maximum Element\obj\Debug\netcoreapp2.0\3. Maximum Element.AssemblyInfoInputs.cache
+D:\programming\Softuni\C# Fundementals\C# Advanced\1. Stacks and Queues\3. Maximum Element\obj\Debug\netcoreapp2.0\3. Maximum Element.AssemblyInfo.cs
+D:\programming\Softuni\C# Fundementals\C# Advanced\1. Stacks and Queues\3. Maximum Element\obj\Debug\netcoreapp2.0\3. Maximum Element.dll
+D:\programming\Softuni\C# Fundementals\C# Advanced\1. Stacks and Queues\3. Maximum Element\obj\Debug\netcoreapp2.0\3. Maximum Element.pdb

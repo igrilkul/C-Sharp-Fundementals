@@ -1,0 +1,11 @@
+D:\programming\Softuni\C# Fundementals\C# Advanced\1. Stacks and Queues\5. Calculate Sequence with Queue\bin\Debug\netcoreapp2.0\5. Calculate Sequence with Queue.deps.json
+D:\programming\Softuni\C# Fundementals\C# Advanced\1. Stacks and Queues\5. Calculate Sequence with Queue\bin\Debug\netcoreapp2.0\5. Calculate Sequence with Queue.runtimeconfig.json
+D:\programming\Softuni\C# Fundementals\C# Advanced\1. Stacks and Queues\5. Calculate Sequence with Queue\bin\Debug\netcoreapp2.0\5. Calculate Sequence with Queue.runtimeconfig.dev.json
+D:\programming\Softuni\C# Fundementals\C# Advanced\1. Stacks and Queues\5. Calculate Sequence with Queue\bin\Debug\netcoreapp2.0\5. Calculate Sequence with Queue.dll
+D:\programming\Softuni\C# Fundementals\C# Advanced\1. Stacks and Queues\5. Calculate Sequence with Queue\bin\Debug\netcoreapp2.0\5. Calculate Sequence with Queue.pdb
+D:\programming\Softuni\C# Fundementals\C# Advanced\1. Stacks and Queues\5. Calculate Sequence with Queue\obj\Debug\netcoreapp2.0\5. Calculate Sequence with Queue.csprojResolveAssemblyReference.cache
+D:\programming\Softuni\C# Fundementals\C# Advanced\1. Stacks and Queues\5. Calculate Sequence with Queue\obj\Debug\netcoreapp2.0\5. Calculate Sequence with Queue.csproj.CoreCompileInputs.cache
+D:\programming\Softuni\C# Fundementals\C# Advanced\1. Stacks and Queues\5. Calculate Sequence with Queue\obj\Debug\netcoreapp2.0\5. Calculate Sequence with Queue.AssemblyInfoInputs.cache
+D:\programming\Softuni\C# Fundementals\C# Advanced\1. Stacks and Queues\5. Calculate Sequence with Queue\obj\Debug\netcoreapp2.0\5. Calculate Sequence with Queue.AssemblyInfo.cs
+D:\programming\Softuni\C# Fundementals\C# Advanced\1. Stacks and Queues\5. Calculate Sequence with Queue\obj\Debug\netcoreapp2.0\5. Calculate Sequence with Queue.dll
+D:\programming\Softuni\C# Fundementals\C# Advanced\1. Stacks and Queues\5. Calculate Sequence with Queue\obj\Debug\netcoreapp2.0\5. Calculate Sequence with Queue.pdb

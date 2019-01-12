@@ -1,0 +1,17 @@
+D:\programming\Softuni\C# Fundementals\C# OOP Advanced\5. Unit Testing\DatabasePeopleTests\bin\Debug\netcoreapp2.1\DatabasePeopleTests.deps.json
+D:\programming\Softuni\C# Fundementals\C# OOP Advanced\5. Unit Testing\DatabasePeopleTests\bin\Debug\netcoreapp2.1\DatabasePeopleTests.runtimeconfig.json
+D:\programming\Softuni\C# Fundementals\C# OOP Advanced\5. Unit Testing\DatabasePeopleTests\bin\Debug\netcoreapp2.1\DatabasePeopleTests.runtimeconfig.dev.json
+D:\programming\Softuni\C# Fundementals\C# OOP Advanced\5. Unit Testing\DatabasePeopleTests\bin\Debug\netcoreapp2.1\DatabasePeopleTests.dll
+D:\programming\Softuni\C# Fundementals\C# OOP Advanced\5. Unit Testing\DatabasePeopleTests\obj\Debug\netcoreapp2.1\DatabasePeopleTests.csproj.CoreCompileInputs.cache
+D:\programming\Softuni\C# Fundementals\C# OOP Advanced\5. Unit Testing\DatabasePeopleTests\obj\Debug\netcoreapp2.1\DatabasePeopleTests.AssemblyInfoInputs.cache
+D:\programming\Softuni\C# Fundementals\C# OOP Advanced\5. Unit Testing\DatabasePeopleTests\obj\Debug\netcoreapp2.1\DatabasePeopleTests.AssemblyInfo.cs
+D:\programming\Softuni\C# Fundementals\C# OOP Advanced\5. Unit Testing\DatabasePeopleTests\obj\Debug\netcoreapp2.1\DatabasePeopleTests.csprojAssemblyReference.cache
+D:\programming\Softuni\C# Fundementals\C# OOP Advanced\5. Unit Testing\DatabasePeopleTests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+D:\programming\Softuni\C# Fundementals\C# OOP Advanced\5. Unit Testing\DatabasePeopleTests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+D:\programming\Softuni\C# Fundementals\C# OOP Advanced\5. Unit Testing\DatabasePeopleTests\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+D:\programming\Softuni\C# Fundementals\C# OOP Advanced\5. Unit Testing\DatabasePeopleTests\bin\Debug\netcoreapp2.1\DatabasePeopleTests.pdb
+D:\programming\Softuni\C# Fundementals\C# OOP Advanced\5. Unit Testing\DatabasePeopleTests\bin\Debug\netcoreapp2.1\DatabasePeople.dll
+D:\programming\Softuni\C# Fundementals\C# OOP Advanced\5. Unit Testing\DatabasePeopleTests\bin\Debug\netcoreapp2.1\DatabasePeople.pdb
+D:\programming\Softuni\C# Fundementals\C# OOP Advanced\5. Unit Testing\DatabasePeopleTests\obj\Debug\netcoreapp2.1\DatabasePeopleTests.csproj.CopyComplete
+D:\programming\Softuni\C# Fundementals\C# OOP Advanced\5. Unit Testing\DatabasePeopleTests\obj\Debug\netcoreapp2.1\DatabasePeopleTests.dll
+D:\programming\Softuni\C# Fundementals\C# OOP Advanced\5. Unit Testing\DatabasePeopleTests\obj\Debug\netcoreapp2.1\DatabasePeopleTests.pdb

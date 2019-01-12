@@ -1,0 +1,11 @@
+D:\programming\Softuni\C# Fundementals\C# OOP Advanced\4. Reflection and Attributes\P03_BarraksWars\bin\Debug\netcoreapp2.0\BarraksWars.deps.json
+D:\programming\Softuni\C# Fundementals\C# OOP Advanced\4. Reflection and Attributes\P03_BarraksWars\bin\Debug\netcoreapp2.0\BarraksWars.runtimeconfig.json
+D:\programming\Softuni\C# Fundementals\C# OOP Advanced\4. Reflection and Attributes\P03_BarraksWars\bin\Debug\netcoreapp2.0\BarraksWars.runtimeconfig.dev.json
+D:\programming\Softuni\C# Fundementals\C# OOP Advanced\4. Reflection and Attributes\P03_BarraksWars\bin\Debug\netcoreapp2.0\BarraksWars.dll
+D:\programming\Softuni\C# Fundementals\C# OOP Advanced\4. Reflection and Attributes\P03_BarraksWars\bin\Debug\netcoreapp2.0\BarraksWars.pdb
+D:\programming\Softuni\C# Fundementals\C# OOP Advanced\4. Reflection and Attributes\P03_BarraksWars\obj\Debug\netcoreapp2.0\BarraksWars.csprojAssemblyReference.cache
+D:\programming\Softuni\C# Fundementals\C# OOP Advanced\4. Reflection and Attributes\P03_BarraksWars\obj\Debug\netcoreapp2.0\BarraksWars.csproj.CoreCompileInputs.cache
+D:\programming\Softuni\C# Fundementals\C# OOP Advanced\4. Reflection and Attributes\P03_BarraksWars\obj\Debug\netcoreapp2.0\BarraksWars.AssemblyInfoInputs.cache
+D:\programming\Softuni\C# Fundementals\C# OOP Advanced\4. Reflection and Attributes\P03_BarraksWars\obj\Debug\netcoreapp2.0\BarraksWars.AssemblyInfo.cs
+D:\programming\Softuni\C# Fundementals\C# OOP Advanced\4. Reflection and Attributes\P03_BarraksWars\obj\Debug\netcoreapp2.0\BarraksWars.dll
+D:\programming\Softuni\C# Fundementals\C# OOP Advanced\4. Reflection and Attributes\P03_BarraksWars\obj\Debug\netcoreapp2.0\BarraksWars.pdb

@@ -1,0 +1,11 @@
+D:\programming\Softuni\C# Fundementals\C# Advanced\4. Streams and Files\7. Directory Traversal\bin\Debug\netcoreapp2.0\7. Directory Traversal.deps.json
+D:\programming\Softuni\C# Fundementals\C# Advanced\4. Streams and Files\7. Directory Traversal\bin\Debug\netcoreapp2.0\7. Directory Traversal.runtimeconfig.json
+D:\programming\Softuni\C# Fundementals\C# Advanced\4. Streams and Files\7. Directory Traversal\bin\Debug\netcoreapp2.0\7. Directory Traversal.runtimeconfig.dev.json
+D:\programming\Softuni\C# Fundementals\C# Advanced\4. Streams and Files\7. Directory Traversal\bin\Debug\netcoreapp2.0\7. Directory Traversal.dll
+D:\programming\Softuni\C# Fundementals\C# Advanced\4. Streams and Files\7. Directory Traversal\bin\Debug\netcoreapp2.0\7. Directory Traversal.pdb
+D:\programming\Softuni\C# Fundementals\C# Advanced\4. Streams and Files\7. Directory Traversal\obj\Debug\netcoreapp2.0\7. Directory Traversal.csprojResolveAssemblyReference.cache
+D:\programming\Softuni\C# Fundementals\C# Advanced\4. Streams and Files\7. Directory Traversal\obj\Debug\netcoreapp2.0\7. Directory Traversal.csproj.CoreCompileInputs.cache
+D:\programming\Softuni\C# Fundementals\C# Advanced\4. Streams and Files\7. Directory Traversal\obj\Debug\netcoreapp2.0\7. Directory Traversal.AssemblyInfoInputs.cache
+D:\programming\Softuni\C# Fundementals\C# Advanced\4. Streams and Files\7. Directory Traversal\obj\Debug\netcoreapp2.0\7. Directory Traversal.AssemblyInfo.cs
+D:\programming\Softuni\C# Fundementals\C# Advanced\4. Streams and Files\7. Directory Traversal\obj\Debug\netcoreapp2.0\7. Directory Traversal.dll
+D:\programming\Softuni\C# Fundementals\C# Advanced\4. Streams and Files\7. Directory Traversal\obj\Debug\netcoreapp2.0\7. Directory Traversal.pdb

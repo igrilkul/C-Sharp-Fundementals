@@ -1,0 +1,11 @@
+D:\programming\Softuni\C# Fundementals\C# Advanced\1. Stacks and Queues\1. Reverse numbers with a stack\bin\Debug\netcoreapp2.0\1. Reverse numbers with a stack.deps.json
+D:\programming\Softuni\C# Fundementals\C# Advanced\1. Stacks and Queues\1. Reverse numbers with a stack\bin\Debug\netcoreapp2.0\1. Reverse numbers with a stack.runtimeconfig.json
+D:\programming\Softuni\C# Fundementals\C# Advanced\1. Stacks and Queues\1. Reverse numbers with a stack\bin\Debug\netcoreapp2.0\1. Reverse numbers with a stack.runtimeconfig.dev.json
+D:\programming\Softuni\C# Fundementals\C# Advanced\1. Stacks and Queues\1. Reverse numbers with a stack\bin\Debug\netcoreapp2.0\1. Reverse numbers with a stack.dll
+D:\programming\Softuni\C# Fundementals\C# Advanced\1. Stacks and Queues\1. Reverse numbers with a stack\bin\Debug\netcoreapp2.0\1. Reverse numbers with a stack.pdb
+D:\programming\Softuni\C# Fundementals\C# Advanced\1. Stacks and Queues\1. Reverse numbers with a stack\obj\Debug\netcoreapp2.0\1. Reverse numbers with a stack.csprojResolveAssemblyReference.cache
+D:\programming\Softuni\C# Fundementals\C# Advanced\1. Stacks and Queues\1. Reverse numbers with a stack\obj\Debug\netcoreapp2.0\1. Reverse numbers with a stack.csproj.CoreCompileInputs.cache
+D:\programming\Softuni\C# Fundementals\C# Advanced\1. Stacks and Queues\1. Reverse numbers with a stack\obj\Debug\netcoreapp2.0\1. Reverse numbers with a stack.AssemblyInfoInputs.cache
+D:\programming\Softuni\C# Fundementals\C# Advanced\1. Stacks and Queues\1. Reverse numbers with a stack\obj\Debug\netcoreapp2.0\1. Reverse numbers with a stack.AssemblyInfo.cs
+D:\programming\Softuni\C# Fundementals\C# Advanced\1. Stacks and Queues\1. Reverse numbers with a stack\obj\Debug\netcoreapp2.0\1. Reverse numbers with a stack.dll
+D:\programming\Softuni\C# Fundementals\C# Advanced\1. Stacks and Queues\1. Reverse numbers with a stack\obj\Debug\netcoreapp2.0\1. Reverse numbers with a stack.pdb

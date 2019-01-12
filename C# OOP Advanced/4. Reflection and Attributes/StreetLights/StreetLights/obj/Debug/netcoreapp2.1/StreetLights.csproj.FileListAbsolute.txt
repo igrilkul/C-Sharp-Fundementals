@@ -1,0 +1,11 @@
+D:\programming\Softuni\C# Fundementals\C# OOP Advanced\4. Reflection and Attributes\StreetLights\StreetLights\bin\Debug\netcoreapp2.1\StreetLights.deps.json
+D:\programming\Softuni\C# Fundementals\C# OOP Advanced\4. Reflection and Attributes\StreetLights\StreetLights\bin\Debug\netcoreapp2.1\StreetLights.runtimeconfig.json
+D:\programming\Softuni\C# Fundementals\C# OOP Advanced\4. Reflection and Attributes\StreetLights\StreetLights\bin\Debug\netcoreapp2.1\StreetLights.runtimeconfig.dev.json
+D:\programming\Softuni\C# Fundementals\C# OOP Advanced\4. Reflection and Attributes\StreetLights\StreetLights\bin\Debug\netcoreapp2.1\StreetLights.dll
+D:\programming\Softuni\C# Fundementals\C# OOP Advanced\4. Reflection and Attributes\StreetLights\StreetLights\bin\Debug\netcoreapp2.1\StreetLights.pdb
+D:\programming\Softuni\C# Fundementals\C# OOP Advanced\4. Reflection and Attributes\StreetLights\StreetLights\obj\Debug\netcoreapp2.1\StreetLights.csprojAssemblyReference.cache
+D:\programming\Softuni\C# Fundementals\C# OOP Advanced\4. Reflection and Attributes\StreetLights\StreetLights\obj\Debug\netcoreapp2.1\StreetLights.csproj.CoreCompileInputs.cache
+D:\programming\Softuni\C# Fundementals\C# OOP Advanced\4. Reflection and Attributes\StreetLights\StreetLights\obj\Debug\netcoreapp2.1\StreetLights.AssemblyInfoInputs.cache
+D:\programming\Softuni\C# Fundementals\C# OOP Advanced\4. Reflection and Attributes\StreetLights\StreetLights\obj\Debug\netcoreapp2.1\StreetLights.AssemblyInfo.cs
+D:\programming\Softuni\C# Fundementals\C# OOP Advanced\4. Reflection and Attributes\StreetLights\StreetLights\obj\Debug\netcoreapp2.1\StreetLights.dll
+D:\programming\Softuni\C# Fundementals\C# OOP Advanced\4. Reflection and Attributes\StreetLights\StreetLights\obj\Debug\netcoreapp2.1\StreetLights.pdb

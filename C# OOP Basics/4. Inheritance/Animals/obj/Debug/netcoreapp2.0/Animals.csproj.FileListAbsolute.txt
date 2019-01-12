@@ -1,0 +1,11 @@
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\4. Inheritance\Animals\bin\Debug\netcoreapp2.0\Animals.deps.json
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\4. Inheritance\Animals\bin\Debug\netcoreapp2.0\Animals.runtimeconfig.json
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\4. Inheritance\Animals\bin\Debug\netcoreapp2.0\Animals.runtimeconfig.dev.json
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\4. Inheritance\Animals\bin\Debug\netcoreapp2.0\Animals.dll
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\4. Inheritance\Animals\bin\Debug\netcoreapp2.0\Animals.pdb
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\4. Inheritance\Animals\obj\Debug\netcoreapp2.0\Animals.csprojAssemblyReference.cache
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\4. Inheritance\Animals\obj\Debug\netcoreapp2.0\Animals.csproj.CoreCompileInputs.cache
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\4. Inheritance\Animals\obj\Debug\netcoreapp2.0\Animals.AssemblyInfoInputs.cache
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\4. Inheritance\Animals\obj\Debug\netcoreapp2.0\Animals.AssemblyInfo.cs
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\4. Inheritance\Animals\obj\Debug\netcoreapp2.0\Animals.dll
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\4. Inheritance\Animals\obj\Debug\netcoreapp2.0\Animals.pdb

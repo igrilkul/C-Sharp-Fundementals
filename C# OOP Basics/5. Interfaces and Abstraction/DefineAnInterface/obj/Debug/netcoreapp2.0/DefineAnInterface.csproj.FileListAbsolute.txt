@@ -1,0 +1,11 @@
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\5. Interfaces and Abstraction\DefineAnInterface\bin\Debug\netcoreapp2.0\DefineAnInterface.deps.json
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\5. Interfaces and Abstraction\DefineAnInterface\bin\Debug\netcoreapp2.0\DefineAnInterface.runtimeconfig.json
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\5. Interfaces and Abstraction\DefineAnInterface\bin\Debug\netcoreapp2.0\DefineAnInterface.runtimeconfig.dev.json
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\5. Interfaces and Abstraction\DefineAnInterface\bin\Debug\netcoreapp2.0\DefineAnInterface.dll
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\5. Interfaces and Abstraction\DefineAnInterface\bin\Debug\netcoreapp2.0\DefineAnInterface.pdb
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\5. Interfaces and Abstraction\DefineAnInterface\obj\Debug\netcoreapp2.0\DefineAnInterface.csprojAssemblyReference.cache
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\5. Interfaces and Abstraction\DefineAnInterface\obj\Debug\netcoreapp2.0\DefineAnInterface.csproj.CoreCompileInputs.cache
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\5. Interfaces and Abstraction\DefineAnInterface\obj\Debug\netcoreapp2.0\DefineAnInterface.AssemblyInfoInputs.cache
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\5. Interfaces and Abstraction\DefineAnInterface\obj\Debug\netcoreapp2.0\DefineAnInterface.AssemblyInfo.cs
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\5. Interfaces and Abstraction\DefineAnInterface\obj\Debug\netcoreapp2.0\DefineAnInterface.dll
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\5. Interfaces and Abstraction\DefineAnInterface\obj\Debug\netcoreapp2.0\DefineAnInterface.pdb

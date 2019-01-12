@@ -1,0 +1,11 @@
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\2. Working with Abstraction\Hospital\bin\Debug\netcoreapp2.1\Hospital.deps.json
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\2. Working with Abstraction\Hospital\bin\Debug\netcoreapp2.1\Hospital.runtimeconfig.json
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\2. Working with Abstraction\Hospital\bin\Debug\netcoreapp2.1\Hospital.runtimeconfig.dev.json
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\2. Working with Abstraction\Hospital\bin\Debug\netcoreapp2.1\Hospital.dll
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\2. Working with Abstraction\Hospital\bin\Debug\netcoreapp2.1\Hospital.pdb
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\2. Working with Abstraction\Hospital\obj\Debug\netcoreapp2.1\Hospital.csprojAssemblyReference.cache
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\2. Working with Abstraction\Hospital\obj\Debug\netcoreapp2.1\Hospital.csproj.CoreCompileInputs.cache
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\2. Working with Abstraction\Hospital\obj\Debug\netcoreapp2.1\Hospital.AssemblyInfoInputs.cache
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\2. Working with Abstraction\Hospital\obj\Debug\netcoreapp2.1\Hospital.AssemblyInfo.cs
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\2. Working with Abstraction\Hospital\obj\Debug\netcoreapp2.1\Hospital.dll
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\2. Working with Abstraction\Hospital\obj\Debug\netcoreapp2.1\Hospital.pdb

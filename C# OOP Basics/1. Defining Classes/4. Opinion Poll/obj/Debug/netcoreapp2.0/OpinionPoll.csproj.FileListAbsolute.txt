@@ -1,0 +1,11 @@
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\1. Defining Classes\4. Opinion Poll\bin\Debug\netcoreapp2.0\OpinionPoll.deps.json
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\1. Defining Classes\4. Opinion Poll\bin\Debug\netcoreapp2.0\OpinionPoll.runtimeconfig.json
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\1. Defining Classes\4. Opinion Poll\bin\Debug\netcoreapp2.0\OpinionPoll.runtimeconfig.dev.json
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\1. Defining Classes\4. Opinion Poll\bin\Debug\netcoreapp2.0\OpinionPoll.dll
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\1. Defining Classes\4. Opinion Poll\bin\Debug\netcoreapp2.0\OpinionPoll.pdb
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\1. Defining Classes\4. Opinion Poll\obj\Debug\netcoreapp2.0\OpinionPoll.csprojAssemblyReference.cache
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\1. Defining Classes\4. Opinion Poll\obj\Debug\netcoreapp2.0\OpinionPoll.csproj.CoreCompileInputs.cache
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\1. Defining Classes\4. Opinion Poll\obj\Debug\netcoreapp2.0\OpinionPoll.AssemblyInfoInputs.cache
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\1. Defining Classes\4. Opinion Poll\obj\Debug\netcoreapp2.0\OpinionPoll.AssemblyInfo.cs
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\1. Defining Classes\4. Opinion Poll\obj\Debug\netcoreapp2.0\OpinionPoll.dll
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\1. Defining Classes\4. Opinion Poll\obj\Debug\netcoreapp2.0\OpinionPoll.pdb

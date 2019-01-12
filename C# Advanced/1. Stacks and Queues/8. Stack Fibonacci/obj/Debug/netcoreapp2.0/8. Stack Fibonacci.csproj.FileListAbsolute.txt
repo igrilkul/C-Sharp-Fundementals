@@ -1,0 +1,11 @@
+D:\programming\Softuni\C# Fundementals\C# Advanced\1. Stacks and Queues\8. Stack Fibonacci\bin\Debug\netcoreapp2.0\8. Stack Fibonacci.deps.json
+D:\programming\Softuni\C# Fundementals\C# Advanced\1. Stacks and Queues\8. Stack Fibonacci\bin\Debug\netcoreapp2.0\8. Stack Fibonacci.runtimeconfig.json
+D:\programming\Softuni\C# Fundementals\C# Advanced\1. Stacks and Queues\8. Stack Fibonacci\bin\Debug\netcoreapp2.0\8. Stack Fibonacci.runtimeconfig.dev.json
+D:\programming\Softuni\C# Fundementals\C# Advanced\1. Stacks and Queues\8. Stack Fibonacci\bin\Debug\netcoreapp2.0\8. Stack Fibonacci.dll
+D:\programming\Softuni\C# Fundementals\C# Advanced\1. Stacks and Queues\8. Stack Fibonacci\bin\Debug\netcoreapp2.0\8. Stack Fibonacci.pdb
+D:\programming\Softuni\C# Fundementals\C# Advanced\1. Stacks and Queues\8. Stack Fibonacci\obj\Debug\netcoreapp2.0\8. Stack Fibonacci.csprojResolveAssemblyReference.cache
+D:\programming\Softuni\C# Fundementals\C# Advanced\1. Stacks and Queues\8. Stack Fibonacci\obj\Debug\netcoreapp2.0\8. Stack Fibonacci.csproj.CoreCompileInputs.cache
+D:\programming\Softuni\C# Fundementals\C# Advanced\1. Stacks and Queues\8. Stack Fibonacci\obj\Debug\netcoreapp2.0\8. Stack Fibonacci.AssemblyInfoInputs.cache
+D:\programming\Softuni\C# Fundementals\C# Advanced\1. Stacks and Queues\8. Stack Fibonacci\obj\Debug\netcoreapp2.0\8. Stack Fibonacci.AssemblyInfo.cs
+D:\programming\Softuni\C# Fundementals\C# Advanced\1. Stacks and Queues\8. Stack Fibonacci\obj\Debug\netcoreapp2.0\8. Stack Fibonacci.dll
+D:\programming\Softuni\C# Fundementals\C# Advanced\1. Stacks and Queues\8. Stack Fibonacci\obj\Debug\netcoreapp2.0\8. Stack Fibonacci.pdb

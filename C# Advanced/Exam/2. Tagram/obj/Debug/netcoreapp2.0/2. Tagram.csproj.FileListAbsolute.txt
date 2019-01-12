@@ -1,0 +1,11 @@
+C:\Users\Jesus\source\repos\Exam\2. Tagram\bin\Debug\netcoreapp2.0\2. Tagram.deps.json
+C:\Users\Jesus\source\repos\Exam\2. Tagram\bin\Debug\netcoreapp2.0\2. Tagram.runtimeconfig.json
+C:\Users\Jesus\source\repos\Exam\2. Tagram\bin\Debug\netcoreapp2.0\2. Tagram.runtimeconfig.dev.json
+C:\Users\Jesus\source\repos\Exam\2. Tagram\bin\Debug\netcoreapp2.0\2. Tagram.dll
+C:\Users\Jesus\source\repos\Exam\2. Tagram\bin\Debug\netcoreapp2.0\2. Tagram.pdb
+C:\Users\Jesus\source\repos\Exam\2. Tagram\obj\Debug\netcoreapp2.0\2. Tagram.csprojResolveAssemblyReference.cache
+C:\Users\Jesus\source\repos\Exam\2. Tagram\obj\Debug\netcoreapp2.0\2. Tagram.csproj.CoreCompileInputs.cache
+C:\Users\Jesus\source\repos\Exam\2. Tagram\obj\Debug\netcoreapp2.0\2. Tagram.AssemblyInfoInputs.cache
+C:\Users\Jesus\source\repos\Exam\2. Tagram\obj\Debug\netcoreapp2.0\2. Tagram.AssemblyInfo.cs
+C:\Users\Jesus\source\repos\Exam\2. Tagram\obj\Debug\netcoreapp2.0\2. Tagram.dll
+C:\Users\Jesus\source\repos\Exam\2. Tagram\obj\Debug\netcoreapp2.0\2. Tagram.pdb

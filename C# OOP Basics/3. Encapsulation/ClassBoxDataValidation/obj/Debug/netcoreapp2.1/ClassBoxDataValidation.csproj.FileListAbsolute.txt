@@ -1,0 +1,11 @@
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\3. Encapsulation\ClassBoxDataValidation\bin\Debug\netcoreapp2.1\ClassBoxDataValidation.deps.json
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\3. Encapsulation\ClassBoxDataValidation\bin\Debug\netcoreapp2.1\ClassBoxDataValidation.runtimeconfig.json
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\3. Encapsulation\ClassBoxDataValidation\bin\Debug\netcoreapp2.1\ClassBoxDataValidation.runtimeconfig.dev.json
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\3. Encapsulation\ClassBoxDataValidation\bin\Debug\netcoreapp2.1\ClassBoxDataValidation.dll
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\3. Encapsulation\ClassBoxDataValidation\bin\Debug\netcoreapp2.1\ClassBoxDataValidation.pdb
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\3. Encapsulation\ClassBoxDataValidation\obj\Debug\netcoreapp2.1\ClassBoxDataValidation.csprojAssemblyReference.cache
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\3. Encapsulation\ClassBoxDataValidation\obj\Debug\netcoreapp2.1\ClassBoxDataValidation.csproj.CoreCompileInputs.cache
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\3. Encapsulation\ClassBoxDataValidation\obj\Debug\netcoreapp2.1\ClassBoxDataValidation.AssemblyInfoInputs.cache
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\3. Encapsulation\ClassBoxDataValidation\obj\Debug\netcoreapp2.1\ClassBoxDataValidation.AssemblyInfo.cs
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\3. Encapsulation\ClassBoxDataValidation\obj\Debug\netcoreapp2.1\ClassBoxDataValidation.dll
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\3. Encapsulation\ClassBoxDataValidation\obj\Debug\netcoreapp2.1\ClassBoxDataValidation.pdb

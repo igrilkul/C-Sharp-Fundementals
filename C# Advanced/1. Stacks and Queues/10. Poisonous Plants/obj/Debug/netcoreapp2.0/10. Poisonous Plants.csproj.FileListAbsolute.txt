@@ -1,0 +1,11 @@
+D:\programming\Softuni\C# Fundementals\C# Advanced\1. Stacks and Queues\10. Poisonous Plants\bin\Debug\netcoreapp2.0\10. Poisonous Plants.deps.json
+D:\programming\Softuni\C# Fundementals\C# Advanced\1. Stacks and Queues\10. Poisonous Plants\bin\Debug\netcoreapp2.0\10. Poisonous Plants.runtimeconfig.json
+D:\programming\Softuni\C# Fundementals\C# Advanced\1. Stacks and Queues\10. Poisonous Plants\bin\Debug\netcoreapp2.0\10. Poisonous Plants.runtimeconfig.dev.json
+D:\programming\Softuni\C# Fundementals\C# Advanced\1. Stacks and Queues\10. Poisonous Plants\bin\Debug\netcoreapp2.0\10. Poisonous Plants.dll
+D:\programming\Softuni\C# Fundementals\C# Advanced\1. Stacks and Queues\10. Poisonous Plants\bin\Debug\netcoreapp2.0\10. Poisonous Plants.pdb
+D:\programming\Softuni\C# Fundementals\C# Advanced\1. Stacks and Queues\10. Poisonous Plants\obj\Debug\netcoreapp2.0\10. Poisonous Plants.csprojResolveAssemblyReference.cache
+D:\programming\Softuni\C# Fundementals\C# Advanced\1. Stacks and Queues\10. Poisonous Plants\obj\Debug\netcoreapp2.0\10. Poisonous Plants.csproj.CoreCompileInputs.cache
+D:\programming\Softuni\C# Fundementals\C# Advanced\1. Stacks and Queues\10. Poisonous Plants\obj\Debug\netcoreapp2.0\10. Poisonous Plants.AssemblyInfoInputs.cache
+D:\programming\Softuni\C# Fundementals\C# Advanced\1. Stacks and Queues\10. Poisonous Plants\obj\Debug\netcoreapp2.0\10. Poisonous Plants.AssemblyInfo.cs
+D:\programming\Softuni\C# Fundementals\C# Advanced\1. Stacks and Queues\10. Poisonous Plants\obj\Debug\netcoreapp2.0\10. Poisonous Plants.dll
+D:\programming\Softuni\C# Fundementals\C# Advanced\1. Stacks and Queues\10. Poisonous Plants\obj\Debug\netcoreapp2.0\10. Poisonous Plants.pdb

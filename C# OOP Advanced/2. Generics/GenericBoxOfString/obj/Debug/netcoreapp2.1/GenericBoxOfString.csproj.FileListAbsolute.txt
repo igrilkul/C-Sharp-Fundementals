@@ -1,0 +1,11 @@
+D:\programming\Softuni\C# Fundementals\C# OOP Advanced\2. Generics\GenericBoxOfString\bin\Debug\netcoreapp2.1\GenericBoxOfString.deps.json
+D:\programming\Softuni\C# Fundementals\C# OOP Advanced\2. Generics\GenericBoxOfString\bin\Debug\netcoreapp2.1\GenericBoxOfString.runtimeconfig.json
+D:\programming\Softuni\C# Fundementals\C# OOP Advanced\2. Generics\GenericBoxOfString\bin\Debug\netcoreapp2.1\GenericBoxOfString.runtimeconfig.dev.json
+D:\programming\Softuni\C# Fundementals\C# OOP Advanced\2. Generics\GenericBoxOfString\bin\Debug\netcoreapp2.1\GenericBoxOfString.dll
+D:\programming\Softuni\C# Fundementals\C# OOP Advanced\2. Generics\GenericBoxOfString\bin\Debug\netcoreapp2.1\GenericBoxOfString.pdb
+D:\programming\Softuni\C# Fundementals\C# OOP Advanced\2. Generics\GenericBoxOfString\obj\Debug\netcoreapp2.1\GenericBoxOfString.csprojAssemblyReference.cache
+D:\programming\Softuni\C# Fundementals\C# OOP Advanced\2. Generics\GenericBoxOfString\obj\Debug\netcoreapp2.1\GenericBoxOfString.csproj.CoreCompileInputs.cache
+D:\programming\Softuni\C# Fundementals\C# OOP Advanced\2. Generics\GenericBoxOfString\obj\Debug\netcoreapp2.1\GenericBoxOfString.AssemblyInfoInputs.cache
+D:\programming\Softuni\C# Fundementals\C# OOP Advanced\2. Generics\GenericBoxOfString\obj\Debug\netcoreapp2.1\GenericBoxOfString.AssemblyInfo.cs
+D:\programming\Softuni\C# Fundementals\C# OOP Advanced\2. Generics\GenericBoxOfString\obj\Debug\netcoreapp2.1\GenericBoxOfString.dll
+D:\programming\Softuni\C# Fundementals\C# OOP Advanced\2. Generics\GenericBoxOfString\obj\Debug\netcoreapp2.1\GenericBoxOfString.pdb

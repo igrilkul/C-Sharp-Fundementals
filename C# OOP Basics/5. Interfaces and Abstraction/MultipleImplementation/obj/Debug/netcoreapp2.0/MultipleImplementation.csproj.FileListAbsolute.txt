@@ -1,0 +1,11 @@
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\5. Interfaces and Abstraction\MultipleImplementation\bin\Debug\netcoreapp2.0\MultipleImplementation.deps.json
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\5. Interfaces and Abstraction\MultipleImplementation\bin\Debug\netcoreapp2.0\MultipleImplementation.runtimeconfig.json
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\5. Interfaces and Abstraction\MultipleImplementation\bin\Debug\netcoreapp2.0\MultipleImplementation.runtimeconfig.dev.json
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\5. Interfaces and Abstraction\MultipleImplementation\bin\Debug\netcoreapp2.0\MultipleImplementation.dll
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\5. Interfaces and Abstraction\MultipleImplementation\bin\Debug\netcoreapp2.0\MultipleImplementation.pdb
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\5. Interfaces and Abstraction\MultipleImplementation\obj\Debug\netcoreapp2.0\MultipleImplementation.csprojAssemblyReference.cache
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\5. Interfaces and Abstraction\MultipleImplementation\obj\Debug\netcoreapp2.0\MultipleImplementation.csproj.CoreCompileInputs.cache
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\5. Interfaces and Abstraction\MultipleImplementation\obj\Debug\netcoreapp2.0\MultipleImplementation.AssemblyInfoInputs.cache
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\5. Interfaces and Abstraction\MultipleImplementation\obj\Debug\netcoreapp2.0\MultipleImplementation.AssemblyInfo.cs
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\5. Interfaces and Abstraction\MultipleImplementation\obj\Debug\netcoreapp2.0\MultipleImplementation.dll
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\5. Interfaces and Abstraction\MultipleImplementation\obj\Debug\netcoreapp2.0\MultipleImplementation.pdb

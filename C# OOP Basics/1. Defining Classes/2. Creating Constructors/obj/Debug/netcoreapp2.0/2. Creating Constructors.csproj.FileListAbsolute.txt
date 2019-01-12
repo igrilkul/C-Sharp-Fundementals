@@ -1,0 +1,11 @@
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\1. Defining Classes\2. Creating Constructors\bin\Debug\netcoreapp2.0\2. Creating Constructors.deps.json
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\1. Defining Classes\2. Creating Constructors\bin\Debug\netcoreapp2.0\2. Creating Constructors.runtimeconfig.json
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\1. Defining Classes\2. Creating Constructors\bin\Debug\netcoreapp2.0\2. Creating Constructors.runtimeconfig.dev.json
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\1. Defining Classes\2. Creating Constructors\bin\Debug\netcoreapp2.0\2. Creating Constructors.dll
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\1. Defining Classes\2. Creating Constructors\bin\Debug\netcoreapp2.0\2. Creating Constructors.pdb
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\1. Defining Classes\2. Creating Constructors\obj\Debug\netcoreapp2.0\2. Creating Constructors.csprojAssemblyReference.cache
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\1. Defining Classes\2. Creating Constructors\obj\Debug\netcoreapp2.0\2. Creating Constructors.csproj.CoreCompileInputs.cache
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\1. Defining Classes\2. Creating Constructors\obj\Debug\netcoreapp2.0\2. Creating Constructors.AssemblyInfoInputs.cache
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\1. Defining Classes\2. Creating Constructors\obj\Debug\netcoreapp2.0\2. Creating Constructors.AssemblyInfo.cs
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\1. Defining Classes\2. Creating Constructors\obj\Debug\netcoreapp2.0\2. Creating Constructors.dll
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\1. Defining Classes\2. Creating Constructors\obj\Debug\netcoreapp2.0\2. Creating Constructors.pdb

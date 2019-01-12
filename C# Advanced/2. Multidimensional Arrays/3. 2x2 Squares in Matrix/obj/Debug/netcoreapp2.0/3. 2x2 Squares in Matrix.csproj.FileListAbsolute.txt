@@ -1,0 +1,11 @@
+D:\programming\Softuni\C# Fundementals\C# Advanced\2. Multidimensional Arrays\3. 2x2 Squares in Matrix\bin\Debug\netcoreapp2.0\3. 2x2 Squares in Matrix.deps.json
+D:\programming\Softuni\C# Fundementals\C# Advanced\2. Multidimensional Arrays\3. 2x2 Squares in Matrix\bin\Debug\netcoreapp2.0\3. 2x2 Squares in Matrix.runtimeconfig.json
+D:\programming\Softuni\C# Fundementals\C# Advanced\2. Multidimensional Arrays\3. 2x2 Squares in Matrix\bin\Debug\netcoreapp2.0\3. 2x2 Squares in Matrix.runtimeconfig.dev.json
+D:\programming\Softuni\C# Fundementals\C# Advanced\2. Multidimensional Arrays\3. 2x2 Squares in Matrix\bin\Debug\netcoreapp2.0\3. 2x2 Squares in Matrix.dll
+D:\programming\Softuni\C# Fundementals\C# Advanced\2. Multidimensional Arrays\3. 2x2 Squares in Matrix\bin\Debug\netcoreapp2.0\3. 2x2 Squares in Matrix.pdb
+D:\programming\Softuni\C# Fundementals\C# Advanced\2. Multidimensional Arrays\3. 2x2 Squares in Matrix\obj\Debug\netcoreapp2.0\3. 2x2 Squares in Matrix.csprojResolveAssemblyReference.cache
+D:\programming\Softuni\C# Fundementals\C# Advanced\2. Multidimensional Arrays\3. 2x2 Squares in Matrix\obj\Debug\netcoreapp2.0\3. 2x2 Squares in Matrix.csproj.CoreCompileInputs.cache
+D:\programming\Softuni\C# Fundementals\C# Advanced\2. Multidimensional Arrays\3. 2x2 Squares in Matrix\obj\Debug\netcoreapp2.0\3. 2x2 Squares in Matrix.AssemblyInfoInputs.cache
+D:\programming\Softuni\C# Fundementals\C# Advanced\2. Multidimensional Arrays\3. 2x2 Squares in Matrix\obj\Debug\netcoreapp2.0\3. 2x2 Squares in Matrix.AssemblyInfo.cs
+D:\programming\Softuni\C# Fundementals\C# Advanced\2. Multidimensional Arrays\3. 2x2 Squares in Matrix\obj\Debug\netcoreapp2.0\3. 2x2 Squares in Matrix.dll
+D:\programming\Softuni\C# Fundementals\C# Advanced\2. Multidimensional Arrays\3. 2x2 Squares in Matrix\obj\Debug\netcoreapp2.0\3. 2x2 Squares in Matrix.pdb

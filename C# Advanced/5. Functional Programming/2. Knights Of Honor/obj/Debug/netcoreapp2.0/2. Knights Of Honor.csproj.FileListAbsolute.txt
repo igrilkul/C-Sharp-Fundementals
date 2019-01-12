@@ -1,0 +1,11 @@
+D:\programming\Softuni\C# Fundementals\C# Advanced\5. Functional Programming\2. Knights Of Honor\bin\Debug\netcoreapp2.0\2. Knights Of Honor.deps.json
+D:\programming\Softuni\C# Fundementals\C# Advanced\5. Functional Programming\2. Knights Of Honor\bin\Debug\netcoreapp2.0\2. Knights Of Honor.runtimeconfig.json
+D:\programming\Softuni\C# Fundementals\C# Advanced\5. Functional Programming\2. Knights Of Honor\bin\Debug\netcoreapp2.0\2. Knights Of Honor.runtimeconfig.dev.json
+D:\programming\Softuni\C# Fundementals\C# Advanced\5. Functional Programming\2. Knights Of Honor\bin\Debug\netcoreapp2.0\2. Knights Of Honor.dll
+D:\programming\Softuni\C# Fundementals\C# Advanced\5. Functional Programming\2. Knights Of Honor\bin\Debug\netcoreapp2.0\2. Knights Of Honor.pdb
+D:\programming\Softuni\C# Fundementals\C# Advanced\5. Functional Programming\2. Knights Of Honor\obj\Debug\netcoreapp2.0\2. Knights Of Honor.csprojResolveAssemblyReference.cache
+D:\programming\Softuni\C# Fundementals\C# Advanced\5. Functional Programming\2. Knights Of Honor\obj\Debug\netcoreapp2.0\2. Knights Of Honor.csproj.CoreCompileInputs.cache
+D:\programming\Softuni\C# Fundementals\C# Advanced\5. Functional Programming\2. Knights Of Honor\obj\Debug\netcoreapp2.0\2. Knights Of Honor.AssemblyInfoInputs.cache
+D:\programming\Softuni\C# Fundementals\C# Advanced\5. Functional Programming\2. Knights Of Honor\obj\Debug\netcoreapp2.0\2. Knights Of Honor.AssemblyInfo.cs
+D:\programming\Softuni\C# Fundementals\C# Advanced\5. Functional Programming\2. Knights Of Honor\obj\Debug\netcoreapp2.0\2. Knights Of Honor.dll
+D:\programming\Softuni\C# Fundementals\C# Advanced\5. Functional Programming\2. Knights Of Honor\obj\Debug\netcoreapp2.0\2. Knights Of Honor.pdb

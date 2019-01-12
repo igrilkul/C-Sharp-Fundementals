@@ -1,0 +1,11 @@
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\5. Interfaces and Abstraction\MilitaryElite\bin\Debug\netcoreapp2.0\MilitaryElite.deps.json
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\5. Interfaces and Abstraction\MilitaryElite\bin\Debug\netcoreapp2.0\MilitaryElite.runtimeconfig.json
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\5. Interfaces and Abstraction\MilitaryElite\bin\Debug\netcoreapp2.0\MilitaryElite.runtimeconfig.dev.json
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\5. Interfaces and Abstraction\MilitaryElite\bin\Debug\netcoreapp2.0\MilitaryElite.dll
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\5. Interfaces and Abstraction\MilitaryElite\bin\Debug\netcoreapp2.0\MilitaryElite.pdb
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\5. Interfaces and Abstraction\MilitaryElite\obj\Debug\netcoreapp2.0\MilitaryElite.csprojAssemblyReference.cache
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\5. Interfaces and Abstraction\MilitaryElite\obj\Debug\netcoreapp2.0\MilitaryElite.csproj.CoreCompileInputs.cache
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\5. Interfaces and Abstraction\MilitaryElite\obj\Debug\netcoreapp2.0\MilitaryElite.AssemblyInfoInputs.cache
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\5. Interfaces and Abstraction\MilitaryElite\obj\Debug\netcoreapp2.0\MilitaryElite.AssemblyInfo.cs
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\5. Interfaces and Abstraction\MilitaryElite\obj\Debug\netcoreapp2.0\MilitaryElite.dll
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\5. Interfaces and Abstraction\MilitaryElite\obj\Debug\netcoreapp2.0\MilitaryElite.pdb

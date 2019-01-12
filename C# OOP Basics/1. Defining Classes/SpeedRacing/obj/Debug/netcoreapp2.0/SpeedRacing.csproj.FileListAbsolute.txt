@@ -1,0 +1,11 @@
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\1. Defining Classes\SpeedRacing\bin\Debug\netcoreapp2.0\SpeedRacing.deps.json
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\1. Defining Classes\SpeedRacing\bin\Debug\netcoreapp2.0\SpeedRacing.runtimeconfig.json
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\1. Defining Classes\SpeedRacing\bin\Debug\netcoreapp2.0\SpeedRacing.runtimeconfig.dev.json
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\1. Defining Classes\SpeedRacing\bin\Debug\netcoreapp2.0\SpeedRacing.dll
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\1. Defining Classes\SpeedRacing\bin\Debug\netcoreapp2.0\SpeedRacing.pdb
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\1. Defining Classes\SpeedRacing\obj\Debug\netcoreapp2.0\SpeedRacing.csprojAssemblyReference.cache
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\1. Defining Classes\SpeedRacing\obj\Debug\netcoreapp2.0\SpeedRacing.csproj.CoreCompileInputs.cache
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\1. Defining Classes\SpeedRacing\obj\Debug\netcoreapp2.0\SpeedRacing.AssemblyInfoInputs.cache
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\1. Defining Classes\SpeedRacing\obj\Debug\netcoreapp2.0\SpeedRacing.AssemblyInfo.cs
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\1. Defining Classes\SpeedRacing\obj\Debug\netcoreapp2.0\SpeedRacing.dll
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\1. Defining Classes\SpeedRacing\obj\Debug\netcoreapp2.0\SpeedRacing.pdb

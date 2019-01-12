@@ -1,0 +1,11 @@
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\1. Defining Classes\RectangleIntersection\bin\Debug\netcoreapp2.0\RectangleIntersection.deps.json
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\1. Defining Classes\RectangleIntersection\bin\Debug\netcoreapp2.0\RectangleIntersection.runtimeconfig.json
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\1. Defining Classes\RectangleIntersection\bin\Debug\netcoreapp2.0\RectangleIntersection.runtimeconfig.dev.json
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\1. Defining Classes\RectangleIntersection\bin\Debug\netcoreapp2.0\RectangleIntersection.dll
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\1. Defining Classes\RectangleIntersection\bin\Debug\netcoreapp2.0\RectangleIntersection.pdb
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\1. Defining Classes\RectangleIntersection\obj\Debug\netcoreapp2.0\RectangleIntersection.csprojAssemblyReference.cache
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\1. Defining Classes\RectangleIntersection\obj\Debug\netcoreapp2.0\RectangleIntersection.csproj.CoreCompileInputs.cache
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\1. Defining Classes\RectangleIntersection\obj\Debug\netcoreapp2.0\RectangleIntersection.AssemblyInfoInputs.cache
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\1. Defining Classes\RectangleIntersection\obj\Debug\netcoreapp2.0\RectangleIntersection.AssemblyInfo.cs
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\1. Defining Classes\RectangleIntersection\obj\Debug\netcoreapp2.0\RectangleIntersection.dll
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\1. Defining Classes\RectangleIntersection\obj\Debug\netcoreapp2.0\RectangleIntersection.pdb

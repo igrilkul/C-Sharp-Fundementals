@@ -1,0 +1,11 @@
+D:\programming\Softuni\C# Fundementals\C# OOP Advanced\3. Iterators and Comparators\ComparingObjects\bin\Debug\netcoreapp2.1\ComparingObjects.deps.json
+D:\programming\Softuni\C# Fundementals\C# OOP Advanced\3. Iterators and Comparators\ComparingObjects\bin\Debug\netcoreapp2.1\ComparingObjects.runtimeconfig.json
+D:\programming\Softuni\C# Fundementals\C# OOP Advanced\3. Iterators and Comparators\ComparingObjects\bin\Debug\netcoreapp2.1\ComparingObjects.runtimeconfig.dev.json
+D:\programming\Softuni\C# Fundementals\C# OOP Advanced\3. Iterators and Comparators\ComparingObjects\bin\Debug\netcoreapp2.1\ComparingObjects.dll
+D:\programming\Softuni\C# Fundementals\C# OOP Advanced\3. Iterators and Comparators\ComparingObjects\bin\Debug\netcoreapp2.1\ComparingObjects.pdb
+D:\programming\Softuni\C# Fundementals\C# OOP Advanced\3. Iterators and Comparators\ComparingObjects\obj\Debug\netcoreapp2.1\ComparingObjects.csprojAssemblyReference.cache
+D:\programming\Softuni\C# Fundementals\C# OOP Advanced\3. Iterators and Comparators\ComparingObjects\obj\Debug\netcoreapp2.1\ComparingObjects.csproj.CoreCompileInputs.cache
+D:\programming\Softuni\C# Fundementals\C# OOP Advanced\3. Iterators and Comparators\ComparingObjects\obj\Debug\netcoreapp2.1\ComparingObjects.AssemblyInfoInputs.cache
+D:\programming\Softuni\C# Fundementals\C# OOP Advanced\3. Iterators and Comparators\ComparingObjects\obj\Debug\netcoreapp2.1\ComparingObjects.AssemblyInfo.cs
+D:\programming\Softuni\C# Fundementals\C# OOP Advanced\3. Iterators and Comparators\ComparingObjects\obj\Debug\netcoreapp2.1\ComparingObjects.dll
+D:\programming\Softuni\C# Fundementals\C# OOP Advanced\3. Iterators and Comparators\ComparingObjects\obj\Debug\netcoreapp2.1\ComparingObjects.pdb

@@ -1,0 +1,17 @@
+D:\programming\Softuni\C# Fundementals\C# OOP Advanced\5. Unit Testing\CustomLinkedList\DynamicLinkedListTests\bin\Debug\netcoreapp2.1\DynamicLinkedListTests.deps.json
+D:\programming\Softuni\C# Fundementals\C# OOP Advanced\5. Unit Testing\CustomLinkedList\DynamicLinkedListTests\bin\Debug\netcoreapp2.1\DynamicLinkedListTests.dll
+D:\programming\Softuni\C# Fundementals\C# OOP Advanced\5. Unit Testing\CustomLinkedList\DynamicLinkedListTests\obj\Debug\netcoreapp2.1\DynamicLinkedListTests.csprojAssemblyReference.cache
+D:\programming\Softuni\C# Fundementals\C# OOP Advanced\5. Unit Testing\CustomLinkedList\DynamicLinkedListTests\obj\Debug\netcoreapp2.1\DynamicLinkedListTests.csproj.CoreCompileInputs.cache
+D:\programming\Softuni\C# Fundementals\C# OOP Advanced\5. Unit Testing\CustomLinkedList\DynamicLinkedListTests\obj\Debug\netcoreapp2.1\DynamicLinkedListTests.AssemblyInfoInputs.cache
+D:\programming\Softuni\C# Fundementals\C# OOP Advanced\5. Unit Testing\CustomLinkedList\DynamicLinkedListTests\obj\Debug\netcoreapp2.1\DynamicLinkedListTests.AssemblyInfo.cs
+D:\programming\Softuni\C# Fundementals\C# OOP Advanced\5. Unit Testing\CustomLinkedList\DynamicLinkedListTests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+D:\programming\Softuni\C# Fundementals\C# OOP Advanced\5. Unit Testing\CustomLinkedList\DynamicLinkedListTests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+D:\programming\Softuni\C# Fundementals\C# OOP Advanced\5. Unit Testing\CustomLinkedList\DynamicLinkedListTests\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+D:\programming\Softuni\C# Fundementals\C# OOP Advanced\5. Unit Testing\CustomLinkedList\DynamicLinkedListTests\bin\Debug\netcoreapp2.1\DynamicLinkedListTests.runtimeconfig.json
+D:\programming\Softuni\C# Fundementals\C# OOP Advanced\5. Unit Testing\CustomLinkedList\DynamicLinkedListTests\bin\Debug\netcoreapp2.1\DynamicLinkedListTests.runtimeconfig.dev.json
+D:\programming\Softuni\C# Fundementals\C# OOP Advanced\5. Unit Testing\CustomLinkedList\DynamicLinkedListTests\bin\Debug\netcoreapp2.1\DynamicLinkedListTests.pdb
+D:\programming\Softuni\C# Fundementals\C# OOP Advanced\5. Unit Testing\CustomLinkedList\DynamicLinkedListTests\bin\Debug\netcoreapp2.1\CustomLinkedList.dll
+D:\programming\Softuni\C# Fundementals\C# OOP Advanced\5. Unit Testing\CustomLinkedList\DynamicLinkedListTests\bin\Debug\netcoreapp2.1\CustomLinkedList.pdb
+D:\programming\Softuni\C# Fundementals\C# OOP Advanced\5. Unit Testing\CustomLinkedList\DynamicLinkedListTests\obj\Debug\netcoreapp2.1\DynamicLinkedListTests.csproj.CopyComplete
+D:\programming\Softuni\C# Fundementals\C# OOP Advanced\5. Unit Testing\CustomLinkedList\DynamicLinkedListTests\obj\Debug\netcoreapp2.1\DynamicLinkedListTests.dll
+D:\programming\Softuni\C# Fundementals\C# OOP Advanced\5. Unit Testing\CustomLinkedList\DynamicLinkedListTests\obj\Debug\netcoreapp2.1\DynamicLinkedListTests.pdb

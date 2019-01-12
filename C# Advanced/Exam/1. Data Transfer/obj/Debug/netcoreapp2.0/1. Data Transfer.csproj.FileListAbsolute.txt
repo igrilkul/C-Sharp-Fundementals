@@ -1,0 +1,11 @@
+C:\Users\Jesus\source\repos\Exam\1. Data Transfer\bin\Debug\netcoreapp2.0\1. Data Transfer.deps.json
+C:\Users\Jesus\source\repos\Exam\1. Data Transfer\bin\Debug\netcoreapp2.0\1. Data Transfer.runtimeconfig.json
+C:\Users\Jesus\source\repos\Exam\1. Data Transfer\bin\Debug\netcoreapp2.0\1. Data Transfer.runtimeconfig.dev.json
+C:\Users\Jesus\source\repos\Exam\1. Data Transfer\bin\Debug\netcoreapp2.0\1. Data Transfer.dll
+C:\Users\Jesus\source\repos\Exam\1. Data Transfer\bin\Debug\netcoreapp2.0\1. Data Transfer.pdb
+C:\Users\Jesus\source\repos\Exam\1. Data Transfer\obj\Debug\netcoreapp2.0\1. Data Transfer.csprojResolveAssemblyReference.cache
+C:\Users\Jesus\source\repos\Exam\1. Data Transfer\obj\Debug\netcoreapp2.0\1. Data Transfer.csproj.CoreCompileInputs.cache
+C:\Users\Jesus\source\repos\Exam\1. Data Transfer\obj\Debug\netcoreapp2.0\1. Data Transfer.AssemblyInfoInputs.cache
+C:\Users\Jesus\source\repos\Exam\1. Data Transfer\obj\Debug\netcoreapp2.0\1. Data Transfer.AssemblyInfo.cs
+C:\Users\Jesus\source\repos\Exam\1. Data Transfer\obj\Debug\netcoreapp2.0\1. Data Transfer.dll
+C:\Users\Jesus\source\repos\Exam\1. Data Transfer\obj\Debug\netcoreapp2.0\1. Data Transfer.pdb

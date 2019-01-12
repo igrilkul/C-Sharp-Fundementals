@@ -1,0 +1,11 @@
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\5. Interfaces and Abstraction\FoodShortage\bin\Debug\netcoreapp2.0\FoodShortage.deps.json
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\5. Interfaces and Abstraction\FoodShortage\bin\Debug\netcoreapp2.0\FoodShortage.runtimeconfig.json
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\5. Interfaces and Abstraction\FoodShortage\bin\Debug\netcoreapp2.0\FoodShortage.runtimeconfig.dev.json
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\5. Interfaces and Abstraction\FoodShortage\bin\Debug\netcoreapp2.0\FoodShortage.dll
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\5. Interfaces and Abstraction\FoodShortage\bin\Debug\netcoreapp2.0\FoodShortage.pdb
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\5. Interfaces and Abstraction\FoodShortage\obj\Debug\netcoreapp2.0\FoodShortage.csprojAssemblyReference.cache
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\5. Interfaces and Abstraction\FoodShortage\obj\Debug\netcoreapp2.0\FoodShortage.csproj.CoreCompileInputs.cache
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\5. Interfaces and Abstraction\FoodShortage\obj\Debug\netcoreapp2.0\FoodShortage.AssemblyInfoInputs.cache
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\5. Interfaces and Abstraction\FoodShortage\obj\Debug\netcoreapp2.0\FoodShortage.AssemblyInfo.cs
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\5. Interfaces and Abstraction\FoodShortage\obj\Debug\netcoreapp2.0\FoodShortage.dll
+D:\programming\Softuni\C# Fundementals\C# OOP Basics\5. Interfaces and Abstraction\FoodShortage\obj\Debug\netcoreapp2.0\FoodShortage.pdb

@@ -1,0 +1,10 @@
+D:\programming\Softuni\C# Fundementals\C# Advanced\5. Functional Programming\7. Predicate for Names\bin\Debug\netcoreapp2.0\7. Predicate for Names.deps.json
+D:\programming\Softuni\C# Fundementals\C# Advanced\5. Functional Programming\7. Predicate for Names\bin\Debug\netcoreapp2.0\7. Predicate for Names.runtimeconfig.json
+D:\programming\Softuni\C# Fundementals\C# Advanced\5. Functional Programming\7. Predicate for Names\bin\Debug\netcoreapp2.0\7. Predicate for Names.runtimeconfig.dev.json
+D:\programming\Softuni\C# Fundementals\C# Advanced\5. Functional Programming\7. Predicate for Names\bin\Debug\netcoreapp2.0\7. Predicate for Names.dll
+D:\programming\Softuni\C# Fundementals\C# Advanced\5. Functional Programming\7. Predicate for Names\bin\Debug\netcoreapp2.0\7. Predicate for Names.pdb
+D:\programming\Softuni\C# Fundementals\C# Advanced\5. Functional Programming\7. Predicate for Names\obj\Debug\netcoreapp2.0\7. Predicate for Names.csproj.CoreCompileInputs.cache
+D:\programming\Softuni\C# Fundementals\C# Advanced\5. Functional Programming\7. Predicate for Names\obj\Debug\netcoreapp2.0\7. Predicate for Names.AssemblyInfoInputs.cache
+D:\programming\Softuni\C# Fundementals\C# Advanced\5. Functional Programming\7. Predicate for Names\obj\Debug\netcoreapp2.0\7. Predicate for Names.AssemblyInfo.cs
+D:\programming\Softuni\C# Fundementals\C# Advanced\5. Functional Programming\7. Predicate for Names\obj\Debug\netcoreapp2.0\7. Predicate for Names.dll
+D:\programming\Softuni\C# Fundementals\C# Advanced\5. Functional Programming\7. Predicate for Names\obj\Debug\netcoreapp2.0\7. Predicate for Names.pdb

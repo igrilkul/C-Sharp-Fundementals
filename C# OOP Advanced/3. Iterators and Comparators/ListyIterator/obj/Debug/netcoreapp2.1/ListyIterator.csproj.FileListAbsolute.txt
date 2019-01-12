@@ -1,0 +1,11 @@
+D:\programming\Softuni\C# Fundementals\C# OOP Advanced\3. Iterators and Comparators\ListyIterator\bin\Debug\netcoreapp2.1\ListyIterator.deps.json
+D:\programming\Softuni\C# Fundementals\C# OOP Advanced\3. Iterators and Comparators\ListyIterator\bin\Debug\netcoreapp2.1\ListyIterator.runtimeconfig.json
+D:\programming\Softuni\C# Fundementals\C# OOP Advanced\3. Iterators and Comparators\ListyIterator\bin\Debug\netcoreapp2.1\ListyIterator.runtimeconfig.dev.json
+D:\programming\Softuni\C# Fundementals\C# OOP Advanced\3. Iterators and Comparators\ListyIterator\bin\Debug\netcoreapp2.1\ListyIterator.dll
+D:\programming\Softuni\C# Fundementals\C# OOP Advanced\3. Iterators and Comparators\ListyIterator\bin\Debug\netcoreapp2.1\ListyIterator.pdb
+D:\programming\Softuni\C# Fundementals\C# OOP Advanced\3. Iterators and Comparators\ListyIterator\obj\Debug\netcoreapp2.1\ListyIterator.csprojAssemblyReference.cache
+D:\programming\Softuni\C# Fundementals\C# OOP Advanced\3. Iterators and Comparators\ListyIterator\obj\Debug\netcoreapp2.1\ListyIterator.csproj.CoreCompileInputs.cache
+D:\programming\Softuni\C# Fundementals\C# OOP Advanced\3. Iterators and Comparators\ListyIterator\obj\Debug\netcoreapp2.1\ListyIterator.AssemblyInfoInputs.cache
+D:\programming\Softuni\C# Fundementals\C# OOP Advanced\3. Iterators and Comparators\ListyIterator\obj\Debug\netcoreapp2.1\ListyIterator.AssemblyInfo.cs
+D:\programming\Softuni\C# Fundementals\C# OOP Advanced\3. Iterators and Comparators\ListyIterator\obj\Debug\netcoreapp2.1\ListyIterator.dll
+D:\programming\Softuni\C# Fundementals\C# OOP Advanced\3. Iterators and Comparators\ListyIterator\obj\Debug\netcoreapp2.1\ListyIterator.pdb
