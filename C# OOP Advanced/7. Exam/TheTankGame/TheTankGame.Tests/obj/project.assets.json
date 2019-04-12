@@ -5773,11 +5773,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\programming\\Softuni\\C-Sharp-Fundementals\\C# OOP Advanced\\7. Exam\\Skeleton (.NET Core)\\TheTankGame\\TheTankGame.Tests\\TheTankGame.Tests.csproj",
+      "projectUniqueName": "D:\\programming\\Softuni\\C-Sharp-Fundementals\\C# OOP Advanced\\7. Exam\\TheTankGame\\TheTankGame.Tests\\TheTankGame.Tests.csproj",
       "projectName": "TheTankGame.Tests",
-      "projectPath": "D:\\programming\\Softuni\\C-Sharp-Fundementals\\C# OOP Advanced\\7. Exam\\Skeleton (.NET Core)\\TheTankGame\\TheTankGame.Tests\\TheTankGame.Tests.csproj",
+      "projectPath": "D:\\programming\\Softuni\\C-Sharp-Fundementals\\C# OOP Advanced\\7. Exam\\TheTankGame\\TheTankGame.Tests\\TheTankGame.Tests.csproj",
       "packagesPath": "C:\\Users\\Jesus\\.nuget\\packages\\",
-      "outputPath": "D:\\programming\\Softuni\\C-Sharp-Fundementals\\C# OOP Advanced\\7. Exam\\Skeleton (.NET Core)\\TheTankGame\\TheTankGame.Tests\\obj\\",
+      "outputPath": "D:\\programming\\Softuni\\C-Sharp-Fundementals\\C# OOP Advanced\\7. Exam\\TheTankGame\\TheTankGame.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5797,8 +5797,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "D:\\programming\\Softuni\\C-Sharp-Fundementals\\C# OOP Advanced\\7. Exam\\Skeleton (.NET Core)\\TheTankGame\\TheTankGame\\TheTankGame.csproj": {
-              "projectPath": "D:\\programming\\Softuni\\C-Sharp-Fundementals\\C# OOP Advanced\\7. Exam\\Skeleton (.NET Core)\\TheTankGame\\TheTankGame\\TheTankGame.csproj"
+            "D:\\programming\\Softuni\\C-Sharp-Fundementals\\C# OOP Advanced\\7. Exam\\TheTankGame\\TheTankGame\\TheTankGame.csproj": {
+              "projectPath": "D:\\programming\\Softuni\\C-Sharp-Fundementals\\C# OOP Advanced\\7. Exam\\TheTankGame\\TheTankGame\\TheTankGame.csproj"
             }
           }
         }

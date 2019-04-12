@@ -5,17 +5,12 @@
     using System.Text;
 
     using Contracts;
-    using Entities.Miscellaneous;
-    using Entities.Vehicles;
-    using Entities.Parts;
     using Entities.Parts.Contracts;
     using Entities.Vehicles.Contracts;
     using Utils;
 
     using TheTankGame.Entities.Parts.Factories.Contracts;
     using TheTankGame.Entities.Vehicles.Factories.Contracts;
-    using System;
-    using System.Reflection;
 
     public class TankManager : IManager
     {
@@ -83,42 +78,6 @@
                 this.vehicles[vehicleModel].GetType().GetMethod(methodName).Invoke(this.vehicles[vehicleModel], new object[] { part });
             }
 
-            //Vehicle Vanguard SA-203 100 300 1000 450 2000
-            //Part SA-203 Arsenal Cannon-KA2 300 500 450
-
-            //Type type = Assembly
-            //    .GetCallingAssembly()
-            //    .GetTypes().First(t=>t.Name=="VehicleAssembler");
-
-            //MethodInfo method = type
-            //    .GetMethods()
-            //    .First(m => m.Name == "Add" + partType + "Part");
-
-            //Object[] args ={part};
-            //IVehicle vehicle =this.vehicles[vehicleModel];
-            //method.Invoke(vehicle, args);
-
-
-            
-            //switch(partType)
-            //{
-            //    case "Arsenal":
-            //        {
-            //            vehicle.AddArsenalPart(part);
-            //            break;
-            //        }
-            //    case "Shell":
-            //        {
-            //            vehicle.AddShellPart(part);
-            //            break;
-            //        }
-            //    case "Endurance":
-            //        {
-            //            vehicle.AddEndurancePart(part);
-            //            break;
-            //        }
-            //}
-            //this.vehicles[vehicleModel].AddArsenalPart(part);
 
             return string.Format(
                 GlobalConstants.PartSuccessMessage,

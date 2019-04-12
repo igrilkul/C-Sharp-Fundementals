@@ -22,7 +22,6 @@
             Object[] args = inputParameters.ToArray();
             string result = string.Empty;
 
-            //Type type = this.GetType();//.GetField("tankManager").GetType();
 
             var tankManagerFunction = this.tankManager.GetType()
                 .GetMethods()
@@ -30,29 +29,6 @@
 
             result = (string)tankManagerFunction
                     .Invoke(this.tankManager, new object[] { inputParameters });
-
-            //var tankManagerInterpreter = this.tankManager.GetType().GetMethods().FirstOrDefault(x => x.Name == command);
-
-             //result = (string)tankManagerInterpreter.Invoke(this.tankManager, args);
-
-            //switch (command)
-            //{
-            //    case "Vehicle":
-            //        result = this.tankManager.AddVehicle(inputParameters);
-            //        break;
-            //    case "Part":
-            //        result = this.tankManager.AddPart(inputParameters);
-            //        break;
-            //    case "Inspect":
-            //        result = this.tankManager.Inspect(inputParameters);
-            //        break;
-            //    case "Battle":
-            //        result = this.tankManager.Battle(inputParameters);
-            //        break;
-            //    case "Terminate":
-            //        result = this.tankManager.Terminate(inputParameters);
-            //        break;
-            //}
 
             return result;
         }

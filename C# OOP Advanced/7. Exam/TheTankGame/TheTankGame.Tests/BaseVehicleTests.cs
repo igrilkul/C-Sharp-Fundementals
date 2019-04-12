@@ -26,7 +26,18 @@ namespace TheTankGame.Tests
         decimal partPrice = 7;
         int attackMod = 2;
 
-        
+
+        [Test]
+        public void ToStringShouldReturnProperString()
+        {
+            IAssembler assembler = new VehicleAssembler();
+            IVehicle vehicle = new Vanguard(model, weight, price, attack, defense, hitPoints, assembler);
+            string result = "Vanguard - bleh\r\nTotal Weight: 30.000\r\nTotal Price: 40.000\r\nAttack: 50\r\nDefense: 60\r\nHitPoints: 70\r\nParts: None";
+
+            Assert.That(vehicle.ToString(), Is.EqualTo(result));
+
+        }
+
 
         [Test]
         [TestCase(null)]
@@ -105,15 +116,8 @@ namespace TheTankGame.Tests
             Assert.That(vehicle.TotalHitPoints > hitPoints);
         }
 
-        [Test]
-        public void ToStringShouldReturnProperString()
-        {
-            IVehicle vehicle = new Vanguard(model, weight, price, attack, defense, hitPoints, assembler);
-            string result = "Vanguard - bleh\r\nTotal Weight: 30.000\r\nTotal Price: 40.000\r\nAttack: 50\r\nDefense: 60\r\nHitPoints: 70\r\nParts: None";
-
-            Assert.That(vehicle.ToString(), Is.EqualTo(result));
-
-        }
+       
+        //"Vanguard - bleh\r\nTotal Weight: 30.000\r\nTotal Price: 40.000\r\nAttack: 50\r\nDefense: 60\r\nHitPoints: 70\r\nParts: None"
 
     }
 }

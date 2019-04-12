@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\programming\\Softuni\\C-Sharp-Fundementals\\C# OOP Advanced\\7. Exam\\Skeleton (.NET Core)\\TheTankGame\\TheTankGame\\TheTankGame.csproj",
+      "projectUniqueName": "D:\\programming\\Softuni\\C-Sharp-Fundementals\\C# OOP Advanced\\7. Exam\\TheTankGame\\TheTankGame\\TheTankGame.csproj",
       "projectName": "TheTankGame",
-      "projectPath": "D:\\programming\\Softuni\\C-Sharp-Fundementals\\C# OOP Advanced\\7. Exam\\Skeleton (.NET Core)\\TheTankGame\\TheTankGame\\TheTankGame.csproj",
+      "projectPath": "D:\\programming\\Softuni\\C-Sharp-Fundementals\\C# OOP Advanced\\7. Exam\\TheTankGame\\TheTankGame\\TheTankGame.csproj",
       "packagesPath": "C:\\Users\\Jesus\\.nuget\\packages\\",
-      "outputPath": "D:\\programming\\Softuni\\C-Sharp-Fundementals\\C# OOP Advanced\\7. Exam\\Skeleton (.NET Core)\\TheTankGame\\TheTankGame\\obj\\",
+      "outputPath": "D:\\programming\\Softuni\\C-Sharp-Fundementals\\C# OOP Advanced\\7. Exam\\TheTankGame\\TheTankGame\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -15,3 +15,20 @@ D:\programming\Softuni\C# Fundementals\C# OOP Advanced\7. Exam\Skeleton (.NET Co
 D:\programming\Softuni\C# Fundementals\C# OOP Advanced\7. Exam\Skeleton (.NET Core)\TheTankGame\TheTankGame.Tests\bin\Debug\netcoreapp2.1\TheTankGame.dll
 D:\programming\Softuni\C# Fundementals\C# OOP Advanced\7. Exam\Skeleton (.NET Core)\TheTankGame\TheTankGame.Tests\bin\Debug\netcoreapp2.1\TheTankGame.pdb
 D:\programming\Softuni\C# Fundementals\C# OOP Advanced\7. Exam\Skeleton (.NET Core)\TheTankGame\TheTankGame.Tests\obj\Debug\netcoreapp2.1\TheTankGame.Tests.csproj.CopyComplete
+D:\programming\Softuni\C-Sharp-Fundementals\C# OOP Advanced\7. Exam\TheTankGame\TheTankGame.Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+D:\programming\Softuni\C-Sharp-Fundementals\C# OOP Advanced\7. Exam\TheTankGame\TheTankGame.Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+D:\programming\Softuni\C-Sharp-Fundementals\C# OOP Advanced\7. Exam\TheTankGame\TheTankGame.Tests\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+D:\programming\Softuni\C-Sharp-Fundementals\C# OOP Advanced\7. Exam\TheTankGame\TheTankGame.Tests\bin\Debug\netcoreapp2.1\TheTankGame.Tests.deps.json
+D:\programming\Softuni\C-Sharp-Fundementals\C# OOP Advanced\7. Exam\TheTankGame\TheTankGame.Tests\bin\Debug\netcoreapp2.1\TheTankGame.Tests.runtimeconfig.json
+D:\programming\Softuni\C-Sharp-Fundementals\C# OOP Advanced\7. Exam\TheTankGame\TheTankGame.Tests\bin\Debug\netcoreapp2.1\TheTankGame.Tests.runtimeconfig.dev.json
+D:\programming\Softuni\C-Sharp-Fundementals\C# OOP Advanced\7. Exam\TheTankGame\TheTankGame.Tests\bin\Debug\netcoreapp2.1\TheTankGame.Tests.dll
+D:\programming\Softuni\C-Sharp-Fundementals\C# OOP Advanced\7. Exam\TheTankGame\TheTankGame.Tests\bin\Debug\netcoreapp2.1\TheTankGame.Tests.pdb
+D:\programming\Softuni\C-Sharp-Fundementals\C# OOP Advanced\7. Exam\TheTankGame\TheTankGame.Tests\bin\Debug\netcoreapp2.1\TheTankGame.dll
+D:\programming\Softuni\C-Sharp-Fundementals\C# OOP Advanced\7. Exam\TheTankGame\TheTankGame.Tests\bin\Debug\netcoreapp2.1\TheTankGame.pdb
+D:\programming\Softuni\C-Sharp-Fundementals\C# OOP Advanced\7. Exam\TheTankGame\TheTankGame.Tests\obj\Debug\netcoreapp2.1\TheTankGame.Tests.csprojAssemblyReference.cache
+D:\programming\Softuni\C-Sharp-Fundementals\C# OOP Advanced\7. Exam\TheTankGame\TheTankGame.Tests\obj\Debug\netcoreapp2.1\TheTankGame.Tests.csproj.CoreCompileInputs.cache
+D:\programming\Softuni\C-Sharp-Fundementals\C# OOP Advanced\7. Exam\TheTankGame\TheTankGame.Tests\obj\Debug\netcoreapp2.1\TheTankGame.Tests.AssemblyInfoInputs.cache
+D:\programming\Softuni\C-Sharp-Fundementals\C# OOP Advanced\7. Exam\TheTankGame\TheTankGame.Tests\obj\Debug\netcoreapp2.1\TheTankGame.Tests.AssemblyInfo.cs
+D:\programming\Softuni\C-Sharp-Fundementals\C# OOP Advanced\7. Exam\TheTankGame\TheTankGame.Tests\obj\Debug\netcoreapp2.1\TheTankGame.Tests.csproj.CopyComplete
+D:\programming\Softuni\C-Sharp-Fundementals\C# OOP Advanced\7. Exam\TheTankGame\TheTankGame.Tests\obj\Debug\netcoreapp2.1\TheTankGame.Tests.dll
+D:\programming\Softuni\C-Sharp-Fundementals\C# OOP Advanced\7. Exam\TheTankGame\TheTankGame.Tests\obj\Debug\netcoreapp2.1\TheTankGame.Tests.pdb
